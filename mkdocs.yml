@@ -1,0 +1,31 @@
+site_name: HábilBot
+site_description: Asistente de trámites de un colegio profesional ficticio — modelo de amenazas y evaluación adversarial
+repo_url: https://github.com/ErnestoSCL/habilbot-ciberseguridad-ia
+docs_dir: docs
+
+theme:
+  name: material
+  language: es
+  palette:
+    primary: red
+  features:
+    - navigation.sections
+
+nav:
+  - Inicio: index.md
+  - Ficha del sistema: ficha.md
+  - Arquitectura: arquitectura.md
+  - Modelo de amenazas: modelo-de-amenazas.md
+  - Priorización: priorizacion.md
+  - Controles: controles.md
+  - Evaluación adversarial: evaluacion.md
+  - Clasificación regulatoria: regulatorio.md
+
+markdown_extensions:
+  - tables
+  - admonition
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format

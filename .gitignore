@@ -218,3 +218,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# --- HábilBot ---
+# Estado de ejecución del agente (expedientes, constancias); se reinicia en cada corrida
+estado/
+# Registro completo de ejecución; solo se versiona una muestra en registros/
+registros/vivo/
+# Página generada por MkDocs
+site/
