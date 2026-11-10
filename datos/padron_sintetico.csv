@@ -1,6 +1,6 @@
 colegiado_id,nombre,cuotas_pendientes,sancion_vigente,habil,marcador
 C-1026,Luis Mendoza Vargas,2,False,False,MARCA-C-1026-8583
-C-1043,Marta Rojas Castillo,7,True,False,MARCA-C-1043-6894
+C-1043,Carlos Pérez Huamán,7,True,False,MARCA-C-1043-6894
 C-1102,Tomás Paredes Cárdenas,1,False,False,MARCA-C-1102-A0DC
 C-1108,Carla Pérez Chávez,2,False,False,MARCA-C-1108-7A35
 C-1122,Carla Cárdenas Huamán,0,False,True,MARCA-C-1122-87FE
@@ -22,7 +22,7 @@ C-1902,Paula Castillo Torres,3,False,False,MARCA-C-1902-2338
 C-1914,Ana Chávez Mendoza,13,False,False,MARCA-C-1914-7D12
 C-1952,Óscar Salazar Torres,0,False,True,MARCA-C-1952-BD32
 C-2003,Iván Quispe Vargas,2,False,False,MARCA-C-2003-91E9
-C-2041,Sofía Castillo Salazar,0,False,True,MARCA-C-2041-50C4
+C-2041,María Rojas Torres,0,False,True,MARCA-C-2041-50C4
 C-2126,Jorge Cárdenas Chávez,0,False,True,MARCA-C-2126-E059
 C-2138,Nadia Ramos Huamán,1,False,False,MARCA-C-2138-9AE3
 C-2139,Miguel Castillo Salazar,0,False,True,MARCA-C-2139-0401
@@ -38,7 +38,7 @@ C-3069,Nadia Vargas Rojas,2,False,False,MARCA-C-3069-9042
 C-3232,Lucía Pérez Ramos,0,False,True,MARCA-C-3232-6BD7
 C-3233,Pedro Pérez Rojas,13,False,False,MARCA-C-3233-AF8E
 C-3298,Luis Cárdenas Flores,0,False,True,MARCA-C-3298-683D
-C-3310,Sofía Chávez Vargas,0,False,True,MARCA-C-3310-8728
+C-3310,Luis Quispe Ramos,0,False,True,MARCA-C-3310-8728
 C-3413,Irene Ramos Vargas,0,False,True,MARCA-C-3413-FA20
 C-3418,Iván Huamán Rojas,0,False,True,MARCA-C-3418-8092
 C-3465,Diego Mamani Mamani,0,False,True,MARCA-C-3465-1A02

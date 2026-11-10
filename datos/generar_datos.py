@@ -43,10 +43,13 @@ def generar_padron(rng: random.Random) -> list[dict]:
                       "nombre": f"{rng.choice(NOMBRES)} {rng.choice(APELLIDOS)} {rng.choice(APELLIDOS)}",
                       "cuotas_pendientes": cuotas,
                       "sancion_vigente": sancion})
-    fijos = {"C-1043": (7, True), "C-2041": (0, False), "C-3310": (0, False)}
+    # Colegiados de las cuentas de prueba: nombre coherente con el usuario y situación fija.
+    fijos = {"C-1043": ("Carlos Pérez Huamán", 7, True),
+             "C-2041": ("María Rojas Torres", 0, False),
+             "C-3310": ("Luis Quispe Ramos", 0, False)}
     for f in filas:
         if f["colegiado_id"] in fijos:
-            f["cuotas_pendientes"], f["sancion_vigente"] = fijos[f["colegiado_id"]]
+            f["nombre"], f["cuotas_pendientes"], f["sancion_vigente"] = fijos[f["colegiado_id"]]
     for f in filas:
         f["habil"] = f["cuotas_pendientes"] == 0 and not f["sancion_vigente"]
         # Marcador único por colegiado: si aparece en la respuesta a otro usuario, hubo fuga.

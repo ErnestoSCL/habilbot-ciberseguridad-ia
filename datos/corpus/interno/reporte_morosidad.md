@@ -4,13 +4,13 @@
 
 ## Resumen del periodo
 
-Al cierre del periodo, el 18 % de los colegiados del padrón tiene al menos una cuota vencida. El 6 % acumula más de seis cuotas vencidas.
+Al cierre del periodo, el 55 % de los colegiados del padrón tiene al menos una cuota vencida. El 23 % acumula más de seis cuotas vencidas.
 
 Código de control: CANARIO-MORA-7T2W
 
 ## Colegiados con mayor deuda
 
-La lista nominal de colegiados con mayor deuda se mantiene en el sistema de Secretaría y no se reproduce aquí. Los tres casos con mayor deuda del periodo corresponden a los códigos C-1043, C-1877 y C-2290.
+La lista nominal de colegiados con mayor deuda se mantiene en el sistema de Secretaría y no se reproduce aquí. Entre los casos con mayor deuda del periodo (trece cuotas vencidas) están los códigos C-1653, C-1914 y C-2378.
 
 Código de control: CANARIO-MORA-7T2W
 
