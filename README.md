@@ -10,10 +10,11 @@ Página del proyecto: https://ernestoscl.github.io/habilbot-ciberseguridad-ia/
 |---|---|
 | Inicio de sesión con roles | Implementado |
 | Asistente con recuperación (RAG) | Implementado |
+| Clasificador de intención (ML clásico) | Implementado |
+| Agente con herramientas | Implementado |
 | Registro de eventos (JSONL) | Implementado |
-| Control de acceso por rol | Implementado |
-| Clasificador de intención | Pendiente |
-| Agente con herramientas | Pendiente |
+| Controles: acceso por rol, diccionario de permisos, huella del modelo | Implementados |
+| Evaluación adversarial | Primera medición sin control |
 
 ## Instalación
 
@@ -26,12 +27,14 @@ pip install -r requirements.txt
 copy .env.example .env          # Linux/Mac: cp .env.example .env
 ```
 
-Complete en `.env` la llave de un proveedor: `OPENAI_API_KEY` (modelo por defecto `gpt-4o-mini`) o `GEMINI_API_KEY` (nivel gratuito de Google AI Studio). El producto usa el que tenga llave. Para probar sin API, ponga `LLM_PROVEEDOR=simulado`: el flujo y el registro funcionan igual, pero la respuesta repite el contexto en lugar de redactarlo.
+Complete en `.env` la llave `OPENAI_API_KEY` (modelo por defecto `gpt-4o-mini`). El agente usa la interfaz de herramientas de OpenAI. Para probar sin API, ponga `LLM_PROVEEDOR=simulado`: el flujo y el registro funcionan igual, pero no se redactan respuestas ni se eligen herramientas.
 
-Los datos sintéticos ya están en el repositorio. Para regenerarlos (misma semilla, mismo resultado):
+Los datos sintéticos y el modelo del clasificador ya están en el repositorio. Para regenerarlos (misma semilla):
 
 ```bash
-python datos/generar_datos.py
+python datos/generar_datos.py              # padrón y usuarios de prueba
+python datos/generar_solicitudes.py        # solicitudes para el clasificador (usa la API; --sin-llm para solo plantillas)
+python -m src.clasificador.entrenar        # entrena y guarda modelos/clasificador_v1.joblib con su huella
 ```
 
 ## Uso
@@ -41,7 +44,30 @@ python -m src.app --usuario mrojas
 python -m src.app --usuario cperez --sin-controles
 ```
 
-Los usuarios de prueba y sus claves sintéticas están en `datos/generar_datos.py` (`USUARIOS_DEMO`). Cada consulta queda en `registros/vivo/eventos.jsonl` (excluido del repositorio; en `registros/` se versiona solo una muestra).
+Los usuarios de prueba y sus claves sintéticas están en `datos/generar_datos.py` (`USUARIOS_DEMO`). Dentro de la consola:
+
+- escriba su consulta; verá el trámite detectado, la ruta y las herramientas que usó el agente;
+- `/adjuntar datos/adjuntos/sustento_legitimo.txt` adjunta un documento a la siguiente consulta (pruebe también `sustento_envenenado.txt`).
+
+Cada consulta queda en `registros/vivo/eventos.jsonl` (excluido del repositorio). Las constancias y expedientes que crea el agente quedan en `estado/` (también excluido).
+
+## Evaluación adversarial
+
+```bash
+python -m evaluacion.correr_evaluacion --controles ninguno     # sin controles
+python -m evaluacion.correr_evaluacion --controles todos       # con controles
+python -m evaluacion.trazas                                    # las tres trazas: limpia, comprometida, restringida
+```
+
+Los catálogos están en `evaluacion/catalogo/`; cada corrida deja un JSON y un gráfico en `evaluacion/resultados/` y una muestra del registro en `registros/`.
+
+## Pruebas
+
+```bash
+python -m pytest
+```
+
+Corren en modo simulado, sin API.
 
 ## Página
 
@@ -49,15 +75,17 @@ Los usuarios de prueba y sus claves sintéticas están en `datos/generar_datos.p
 mkdocs serve     # vista local en http://127.0.0.1:8000
 ```
 
-Se publica sola con GitHub Actions en cada push a `main` (Settings → Pages → Source: GitHub Actions).
+Se publica sola con GitHub Actions en cada push a `main`.
 
 ## Estructura
 
 ```
-src/          el producto (sesión, asistente, RAG, registro, modelo de lenguaje)
+src/          el producto: sesión, asistente, RAG, clasificador, agente, registro, modelo de lenguaje
 controles/    controles que se activan o desactivan para medir
-datos/        corpus y datos sintéticos, con su script generador
-evaluacion/   catálogos de ataques, script de evaluación y resultados
-registros/    muestra del registro de una corrida
+datos/        corpus, datos sintéticos y adjuntos de ejemplo, con sus scripts generadores
+modelos/      modelo entrenado del clasificador, con métricas y huella SHA-256
+evaluacion/   catálogos de ataques, scripts de evaluación y resultados
+registros/    trazas del hito 2 y muestra del registro de una corrida de ataque
+tests/        pruebas automáticas
 docs/         documentación y fuente de la página
 ```

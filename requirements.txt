@@ -3,4 +3,6 @@ google-genai
 scikit-learn
 numpy
 python-dotenv
+matplotlib
 mkdocs-material
+pytest
