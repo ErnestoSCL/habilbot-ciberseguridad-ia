@@ -1,0 +1,806 @@
+texto,clase,origen
+"Hola, ¿me pueden explicar los cursos de capacitación?",consulta_general,plantillas
+"Buenos días, quisiera saber qué requisitos piden para los cursos de capacitación. Saludos.",consulta_general,plantillas
+"Buenas, quisiera saber qué requisitos piden para el Tribunal de Ética. Por favor.",consulta_general,plantillas
+¿qué dicen los estatutos sobre la colegiatura? Quedo atento.,consulta_general,plantillas
+"Buenas, ¿cuál es el horario de atención de la caja?",consulta_general,plantillas
+"Hola, tengo una duda sobre los cursos de capacitación. Saludos.",consulta_general,plantillas
+"Buenas, tengo una duda sobre las elecciones del Consejo",consulta_general,plantillas
+Tengo una duda sobre el Código de Ética. Saludos.,consulta_general,plantillas
+"Hola, quisiera saber qué requisitos piden para las elecciones del Consejo. Gracias.",consulta_general,plantillas
+"Buenos días, ¿me pueden explicar el Tribunal de Ética? Gracias.",consulta_general,plantillas
+"Buenos días, quisiera saber qué requisitos piden para la vigencia de la constancia",consulta_general,plantillas
+"Buenas, ¿me pueden explicar la colegiatura?",consulta_general,plantillas
+"Hola, ¿cómo funciona las elecciones del Consejo? Quedo atento.",consulta_general,plantillas
+Quisiera saber qué requisitos piden para el trámite de colegiatura. Quedo atento.,consulta_general,plantillas
+¿qué dicen los estatutos sobre las elecciones del Consejo? Por favor.,consulta_general,plantillas
+"Buenas, ¿quiénes forman el Consejo Directivo? Por favor.",consulta_general,plantillas
+"Estimados, tengo una duda sobre la vigencia de la constancia",consulta_general,plantillas
+"Hola, ¿qué dicen los estatutos sobre el trámite de colegiatura? Gracias.",consulta_general,plantillas
+"Buenas, ¿dónde queda la sede? Quedo atento.",consulta_general,plantillas
+"Buenos días, ¿qué pasa si me sancionan? Quedo atento.",consulta_general,plantillas
+Tengo una duda sobre la colegiatura. Saludos.,consulta_general,plantillas
+¿cómo funciona el Tribunal de Ética?,consulta_general,plantillas
+"Buenos días, ¿cuáles son los deberes de un colegiado? Saludos.",consulta_general,plantillas
+"Hola, ¿dónde queda la caja? Gracias.",consulta_general,plantillas
+"Buenas, ¿qué dicen los estatutos sobre la vigencia de la constancia?",consulta_general,plantillas
+"Buenos días, ¿me pueden explicar el trámite de colegiatura? Por favor.",consulta_general,plantillas
+"Estimados, ¿qué dicen los estatutos sobre los cursos de capacitación?",consulta_general,plantillas
+"Estimados, ¿qué derechos tengo como colegiado? Gracias.",consulta_general,plantillas
+"Hola, ¿cuál es el horario de atención de la oficina del Colegio?",consulta_general,plantillas
+"Buenas, ¿qué dicen los estatutos sobre el Tribunal de Ética?",consulta_general,plantillas
+"Hola, quisiera saber qué requisitos piden para el Código de Ética. Quedo atento.",consulta_general,plantillas
+"Disculpe, ¿me pueden explicar la asesoría profesional? Quedo atento.",consulta_general,plantillas
+"Disculpe, ¿cómo funciona la vigencia de la constancia? Por favor.",consulta_general,plantillas
+"Buenas, tengo una duda sobre el trámite de colegiatura",consulta_general,plantillas
+"Estimados, ¿cómo funciona los cursos de capacitación?",consulta_general,plantillas
+Quisiera saber qué requisitos piden para la colegiatura,consulta_general,plantillas
+¿qué dicen los estatutos sobre el Código de Ética? Saludos.,consulta_general,plantillas
+¿dónde queda la oficina del Colegio?,consulta_general,plantillas
+"Disculpe, ¿dónde queda Secretaría? Saludos.",consulta_general,plantillas
+¿me pueden explicar el Código de Ética? Por favor.,consulta_general,plantillas
+"Disculpe, ¿cómo funciona la asesoría profesional? Gracias.",consulta_general,plantillas
+"Estimados, ¿qué dicen los estatutos sobre la asesoría profesional? Por favor.",consulta_general,plantillas
+"Hola, tengo una duda sobre la asesoría profesional. Por favor.",consulta_general,plantillas
+¿cuál es el horario de atención de la sede? Por favor.,consulta_general,plantillas
+¿me pueden explicar las elecciones del Consejo? Quedo atento.,consulta_general,plantillas
+"Hola, ¿cuál es el horario de atención de Secretaría? Quedo atento.",consulta_general,plantillas
+"Buenos días, ¿me pueden explicar la vigencia de la constancia? Saludos.",consulta_general,plantillas
+"Hola, ¿cómo funciona el Código de Ética?",consulta_general,plantillas
+Quisiera saber qué requisitos piden para la asesoría profesional. Gracias.,consulta_general,plantillas
+¿cómo funciona la colegiatura? Gracias.,consulta_general,plantillas
+"Hola, ¿cómo funciona el trámite de colegiatura? Quedo atento.",consulta_general,plantillas
+Tengo una duda sobre el Tribunal de Ética. Por favor.,consulta_general,plantillas
+"Buenas, ¿me pueden emitir mi constancia de habilitación? Gracias.",constancia_habilitacion,plantillas
+Me piden el constancia de habilitación para mi nuevo trabajo. Por favor.,constancia_habilitacion,plantillas
+"Estimados, quiero solicitar mi certificado de habilitación profesional. Quedo atento.",constancia_habilitacion,plantillas
+"Estimados, necesito mi certificado de hábil para renovar mi contrato",constancia_habilitacion,plantillas
+"Disculpe, me piden el constancia de estar hábil para firmar planos. Saludos.",constancia_habilitacion,plantillas
+Necesito mi certificado de hábil para firmar planos,constancia_habilitacion,plantillas
+"Disculpe, requiero el constancia de estar hábil porque presentarla en una obra",constancia_habilitacion,plantillas
+"Disculpe, me piden el constancia de estar hábil para mi nuevo trabajo",constancia_habilitacion,plantillas
+"Estimados, necesito mi constancia de hábil para mi nuevo trabajo. Gracias.",constancia_habilitacion,plantillas
+Requiero el constancia de estar hábil porque un concurso público. Saludos.,constancia_habilitacion,plantillas
+Solicito constancia de estar hábil vigente. Quedo atento.,constancia_habilitacion,plantillas
+"Disculpe, necesito mi constancia de habilitación para una licitación",constancia_habilitacion,plantillas
+"Buenos días, solicito certificado de hábil vigente. Quedo atento.",constancia_habilitacion,plantillas
+Emítanme el certificado de habilitación profesional por favor. Saludos.,constancia_habilitacion,plantillas
+"Buenas, ¿me pueden emitir mi constancia de estar hábil?",constancia_habilitacion,plantillas
+"Estimados, necesito mi certificado de habilitación profesional para mi nuevo trabajo",constancia_habilitacion,plantillas
+"Disculpe, necesito mi constancia de habilitación para mi nuevo trabajo",constancia_habilitacion,plantillas
+"Hola, emítanme el constancia de estar hábil por favor",constancia_habilitacion,plantillas
+"Buenas, me piden el certificado de hábil para presentarla en una obra. Gracias.",constancia_habilitacion,plantillas
+Necesito mi certificado de habilitación profesional para una licitación. Saludos.,constancia_habilitacion,plantillas
+Requiero el constancia de habilitación porque un concurso público. Gracias.,constancia_habilitacion,plantillas
+Requiero el constancia de habilitación porque mi nuevo trabajo,constancia_habilitacion,plantillas
+"Buenas, me piden el constancia de hábil para una licitación",constancia_habilitacion,plantillas
+"Disculpe, me piden el constancia de habilitación para un concurso público",constancia_habilitacion,plantillas
+"Estimados, me piden el certificado de habilitación profesional para presentarla en una obra. Gracias.",constancia_habilitacion,plantillas
+"Disculpe, requiero el constancia de habilitación porque un proceso de contratación",constancia_habilitacion,plantillas
+Necesito mi constancia de hábil para un concurso público,constancia_habilitacion,plantillas
+Me piden el certificado de habilitación profesional para un proceso de contratación. Gracias.,constancia_habilitacion,plantillas
+"Hola, requiero el constancia de hábil porque firmar planos. Gracias.",constancia_habilitacion,plantillas
+"Estimados, requiero el certificado de hábil porque un proceso de contratación. Saludos.",constancia_habilitacion,plantillas
+"Disculpe, requiero el constancia de hábil porque un proceso de contratación",constancia_habilitacion,plantillas
+"Estimados, me piden el certificado de habilitación profesional para renovar mi contrato. Quedo atento.",constancia_habilitacion,plantillas
+"Buenas, ¿cómo obtengo mi constancia de habilitación?",constancia_habilitacion,plantillas
+"Buenas, necesito mi constancia de hábil para firmar planos",constancia_habilitacion,plantillas
+Me piden el certificado de hábil para un concurso público,constancia_habilitacion,plantillas
+"Buenos días, requiero el constancia de estar hábil porque mi nuevo trabajo. Quedo atento.",constancia_habilitacion,plantillas
+Requiero el certificado de habilitación profesional porque renovar mi contrato,constancia_habilitacion,plantillas
+"Estimados, necesito mi constancia de estar hábil para una licitación. Por favor.",constancia_habilitacion,plantillas
+Necesito mi constancia de hábil para presentarla en una obra. Por favor.,constancia_habilitacion,plantillas
+Me piden el constancia de estar hábil para presentarla en una obra,constancia_habilitacion,plantillas
+Me piden el constancia de hábil para firmar planos. Saludos.,constancia_habilitacion,plantillas
+Solicito constancia de habilitación vigente,constancia_habilitacion,plantillas
+"Buenas, quiero solicitar mi certificado de hábil. Quedo atento.",constancia_habilitacion,plantillas
+Necesito mi constancia de estar hábil para firmar planos. Gracias.,constancia_habilitacion,plantillas
+"Buenas, ¿me pueden emitir mi constancia de hábil? Por favor.",constancia_habilitacion,plantillas
+¿cómo obtengo mi certificado de hábil? Por favor.,constancia_habilitacion,plantillas
+Me piden el constancia de estar hábil para una licitación. Por favor.,constancia_habilitacion,plantillas
+"Buenos días, requiero el constancia de habilitación porque una licitación. Gracias.",constancia_habilitacion,plantillas
+"Buenas, necesito mi certificado de hábil para un concurso público",constancia_habilitacion,plantillas
+"Buenos días, ¿cómo obtengo mi constancia de hábil? Quedo atento.",constancia_habilitacion,plantillas
+"Hola, necesito mi constancia de estar hábil para presentarla en una obra",constancia_habilitacion,plantillas
+Necesito mi constancia de habilitación para un proceso de contratación. Gracias.,constancia_habilitacion,plantillas
+"Hola, necesito mi constancia de estar hábil para renovar mi contrato. Quedo atento.",constancia_habilitacion,plantillas
+"Buenos días, me piden el certificado de hábil para renovar mi contrato. Gracias.",constancia_habilitacion,plantillas
+Me piden el constancia de habilitación para un proceso de contratación. Saludos.,constancia_habilitacion,plantillas
+"Estimados, me piden el constancia de habilitación para presentarla en una obra",constancia_habilitacion,plantillas
+¿cómo obtengo mi certificado de habilitación profesional? Por favor.,constancia_habilitacion,plantillas
+"Buenas, necesito mi certificado de habilitación profesional para renovar mi contrato",constancia_habilitacion,plantillas
+"Hola, requiero el constancia de hábil porque un concurso público. Por favor.",constancia_habilitacion,plantillas
+"Buenos días, requiero el certificado de hábil porque un concurso público",constancia_habilitacion,plantillas
+"Buenas, me piden el constancia de habilitación para renovar mi contrato",constancia_habilitacion,plantillas
+"Hola, quiero la constancia, ¿estoy hábil para pedirla?",constancia_habilitacion,plantillas
+"Estimados, solicito constancia de hábil vigente",constancia_habilitacion,plantillas
+"Hola, me piden el certificado de habilitación profesional para un concurso público. Saludos.",constancia_habilitacion,plantillas
+Requiero el constancia de hábil porque mi nuevo trabajo. Por favor.,constancia_habilitacion,plantillas
+"Hola, necesito mi constancia de hábil para renovar mi contrato. Quedo atento.",constancia_habilitacion,plantillas
+Necesito mi constancia de hábil para una licitación. Quedo atento.,constancia_habilitacion,plantillas
+"Hola, emítanme el constancia de hábil por favor",constancia_habilitacion,plantillas
+Necesito mi constancia de estar hábil para mi nuevo trabajo,constancia_habilitacion,plantillas
+Requiero el certificado de hábil porque renovar mi contrato. Quedo atento.,constancia_habilitacion,plantillas
+"Hola, necesito mi constancia de habilitación para presentarla en una obra",constancia_habilitacion,plantillas
+"Buenas, me piden el constancia de habilitación para una licitación. Por favor.",constancia_habilitacion,plantillas
+"Buenos días, requiero el certificado de hábil porque firmar planos. Quedo atento.",constancia_habilitacion,plantillas
+"Hola, me piden el certificado de hábil para un proceso de contratación",constancia_habilitacion,plantillas
+"Estimados, necesito mi certificado de habilitación profesional para presentarla en una obra. Por favor.",constancia_habilitacion,plantillas
+¿cuánto es la cuota de este mes? Saludos.,pago_cuotas,plantillas
+"Estimados, ¿tengo mis cuotas pendientes? Saludos.",pago_cuotas,plantillas
+"Buenas, quiero pagar la cuota mensual",pago_cuotas,plantillas
+"Estimados, quiero pagar mis cuotas. Saludos.",pago_cuotas,plantillas
+"Hola, ¿hay descuento si pago mis cuotas vencidas?",pago_cuotas,plantillas
+"Buenas, ¿cómo pago mis cuotas? Saludos.",pago_cuotas,plantillas
+¿cuánto es la cuota mensual?,pago_cuotas,plantillas
+"Buenas, quiero pagar la cuota de este mes. Quedo atento.",pago_cuotas,plantillas
+"Buenos días, quiero pagar la cuota adelantada. Gracias.",pago_cuotas,plantillas
+¿cómo pago la cuota adelantada?,pago_cuotas,plantillas
+"Hola, ¿cuánto debo de la cuota anual? Saludos.",pago_cuotas,plantillas
+"Disculpe, ¿tengo la cuota de este mes pendientes?",pago_cuotas,plantillas
+"Buenos días, ¿tengo mis cuotas vencidas pendientes? Quedo atento.",pago_cuotas,plantillas
+¿cuánto debo de la cuota mensual?,pago_cuotas,plantillas
+¿dónde puedo pagar la cuota adelantada?,pago_cuotas,plantillas
+"Hola, ¿hay descuento si pago la cuota adelantada? Por favor.",pago_cuotas,plantillas
+¿tengo la cuota anual pendientes?,pago_cuotas,plantillas
+"Disculpe, ¿puedo pagar la cuota de este mes por transferencia? Por favor.",pago_cuotas,plantillas
+"Buenos días, ¿puedo pagar mis cuotas por transferencia?",pago_cuotas,plantillas
+¿cuánto debo de la cuota adelantada? Gracias.,pago_cuotas,plantillas
+"Buenas, quiero pagar las cuotas atrasadas. Gracias.",pago_cuotas,plantillas
+¿cuánto debo de la cuota de este mes?,pago_cuotas,plantillas
+"Disculpe, ¿puedo pagar mis cuotas vencidas por transferencia? Quedo atento.",pago_cuotas,plantillas
+"Buenas, ¿cómo pago la cuota de este mes?",pago_cuotas,plantillas
+"Disculpe, ¿dónde puedo pagar mis cuotas?",pago_cuotas,plantillas
+"Buenos días, ¿cuánto debo de mis cuotas?",pago_cuotas,plantillas
+"Buenos días, ¿hay descuento si pago la cuota mensual? Por favor.",pago_cuotas,plantillas
+Quiero pagar la cuota anual. Quedo atento.,pago_cuotas,plantillas
+"Hola, ¿dónde puedo pagar la cuota mensual? Quedo atento.",pago_cuotas,plantillas
+"Hola, ¿cuánto debo de las cuotas atrasadas? Por favor.",pago_cuotas,plantillas
+"Disculpe, ¿cómo pago las cuotas atrasadas? Quedo atento.",pago_cuotas,plantillas
+"Disculpe, ¿hay descuento si pago mis cuotas?",pago_cuotas,plantillas
+"Hola, ¿cómo pago mis cuotas vencidas? Quedo atento.",pago_cuotas,plantillas
+Quiero pagar mis cuotas vencidas. Por favor.,pago_cuotas,plantillas
+"Disculpe, ¿puedo pagar las cuotas atrasadas por transferencia?",pago_cuotas,plantillas
+"Disculpe, ¿hay descuento si pago la cuota anual? Quedo atento.",pago_cuotas,plantillas
+¿tengo las cuotas atrasadas pendientes? Quedo atento.,pago_cuotas,plantillas
+"Hola, ¿dónde puedo pagar las cuotas atrasadas? Por favor.",pago_cuotas,plantillas
+¿tengo la cuota adelantada pendientes? Gracias.,pago_cuotas,plantillas
+"Hola, ¿dónde puedo pagar la cuota de este mes?",pago_cuotas,plantillas
+"Disculpe, ¿dónde puedo pagar la cuota anual?",pago_cuotas,plantillas
+"Buenos días, ¿cuánto es la cuota adelantada? Saludos.",pago_cuotas,plantillas
+"Estimados, ¿cuánto es mis cuotas vencidas? Gracias.",pago_cuotas,plantillas
+"Buenas, ¿dónde puedo pagar mis cuotas vencidas? Gracias.",pago_cuotas,plantillas
+"Estimados, ¿cuánto debo de mis cuotas vencidas? Por favor.",pago_cuotas,plantillas
+¿cómo pago la cuota anual? Saludos.,pago_cuotas,plantillas
+¿hay descuento si pago la cuota de este mes? Quedo atento.,pago_cuotas,plantillas
+"Buenos días, ¿cuánto es las cuotas atrasadas?",pago_cuotas,plantillas
+"Buenas, ¿tengo la cuota mensual pendientes?",pago_cuotas,plantillas
+"Hola, ¿puedo pagar la cuota adelantada por transferencia? Quedo atento.",pago_cuotas,plantillas
+"Buenas, ¿puedo pagar la cuota anual por transferencia?",pago_cuotas,plantillas
+¿cómo pago la cuota mensual?,pago_cuotas,plantillas
+"Buenas, ¿puedo pagar la cuota mensual por transferencia?",pago_cuotas,plantillas
+¿hay descuento si pago las cuotas atrasadas? Gracias.,pago_cuotas,plantillas
+"Disculpe, ¿cuánto es mis cuotas? Gracias.",pago_cuotas,plantillas
+"Buenas, ¿cuánto es la cuota anual? Quedo atento.",pago_cuotas,plantillas
+"Buenos días, ¿cómo modifico mi dirección?",actualizacion_datos,plantillas
+¿cómo modifico mi datos de contacto?,actualizacion_datos,plantillas
+Necesito corregir mi dirección en el padrón,actualizacion_datos,plantillas
+"Disculpe, quiero actualizar mi dirección",actualizacion_datos,plantillas
+Necesito corregir mi domicilio en el padrón. Quedo atento.,actualizacion_datos,plantillas
+"Buenas, mi correo electrónico está mal registrado. Quedo atento.",actualizacion_datos,plantillas
+"Disculpe, me mudé y debo cambiar mi datos de contacto",actualizacion_datos,plantillas
+"Buenos días, solicito la actualización de mi número de teléfono. Gracias.",actualizacion_datos,plantillas
+"Estimados, cambié de apellido, ¿cómo lo actualizo? Por favor.",actualizacion_datos,plantillas
+"Cambié de número de teléfono, ¿cómo lo actualizo? Gracias.",actualizacion_datos,plantillas
+"Disculpe, necesito corregir mi número de teléfono en el padrón",actualizacion_datos,plantillas
+Mi apellido está mal registrado. Gracias.,actualizacion_datos,plantillas
+"Disculpe, me mudé y debo cambiar mi domicilio. Saludos.",actualizacion_datos,plantillas
+Quiero actualizar mi lugar de trabajo. Gracias.,actualizacion_datos,plantillas
+"Hola, quiero actualizar mi correo electrónico",actualizacion_datos,plantillas
+"Disculpe, cambié de dirección, ¿cómo lo actualizo? Saludos.",actualizacion_datos,plantillas
+"Disculpe, ¿cómo modifico mi correo electrónico? Saludos.",actualizacion_datos,plantillas
+"Buenas, me mudé y debo cambiar mi apellido. Por favor.",actualizacion_datos,plantillas
+"Buenas, solicito la actualización de mi datos de contacto. Gracias.",actualizacion_datos,plantillas
+"Disculpe, cambié de domicilio, ¿cómo lo actualizo?",actualizacion_datos,plantillas
+¿cómo modifico mi lugar de trabajo? Gracias.,actualizacion_datos,plantillas
+"Buenos días, quiero actualizar mi datos de contacto. Gracias.",actualizacion_datos,plantillas
+"Disculpe, necesito corregir mi apellido en el padrón. Quedo atento.",actualizacion_datos,plantillas
+Mi datos de contacto está mal registrado. Quedo atento.,actualizacion_datos,plantillas
+"Estimados, mi dirección está mal registrado. Saludos.",actualizacion_datos,plantillas
+Mi lugar de trabajo está mal registrado,actualizacion_datos,plantillas
+Me mudé y debo cambiar mi dirección. Gracias.,actualizacion_datos,plantillas
+"Disculpe, solicito la actualización de mi dirección",actualizacion_datos,plantillas
+"Estimados, necesito corregir mi datos de contacto en el padrón",actualizacion_datos,plantillas
+Quiero actualizar mi apellido,actualizacion_datos,plantillas
+"Disculpe, me mudé y debo cambiar mi número de teléfono",actualizacion_datos,plantillas
+"Buenas, ¿cómo modifico mi domicilio?",actualizacion_datos,plantillas
+"Buenos días, necesito corregir mi lugar de trabajo en el padrón. Gracias.",actualizacion_datos,plantillas
+"Disculpe, cambié de lugar de trabajo, ¿cómo lo actualizo?",actualizacion_datos,plantillas
+"Disculpe, solicito la actualización de mi correo electrónico",actualizacion_datos,plantillas
+Mi domicilio está mal registrado,actualizacion_datos,plantillas
+¿cómo modifico mi número de teléfono? Gracias.,actualizacion_datos,plantillas
+Me mudé y debo cambiar mi lugar de trabajo. Quedo atento.,actualizacion_datos,plantillas
+"Buenas, quiero actualizar mi número de teléfono",actualizacion_datos,plantillas
+Solicito la actualización de mi apellido. Quedo atento.,actualizacion_datos,plantillas
+Necesito corregir mi correo electrónico en el padrón. Saludos.,actualizacion_datos,plantillas
+Mi número de teléfono está mal registrado. Saludos.,actualizacion_datos,plantillas
+"Buenas, quiero actualizar mi domicilio",actualizacion_datos,plantillas
+"Cambié de correo electrónico, ¿cómo lo actualizo? Saludos.",actualizacion_datos,plantillas
+"Cambié de datos de contacto, ¿cómo lo actualizo? Por favor.",actualizacion_datos,plantillas
+¿cómo modifico mi apellido?,actualizacion_datos,plantillas
+Solicito la actualización de mi lugar de trabajo. Gracias.,actualizacion_datos,plantillas
+"Buenas, solicito la actualización de mi domicilio. Por favor.",actualizacion_datos,plantillas
+"Hola, me mudé y debo cambiar mi correo electrónico. Gracias.",actualizacion_datos,plantillas
+Reclamo formal: la constancia salió con mis datos errados. Gracias.,reclamo,plantillas
+"Hola, no estoy conforme porque me atendieron mal en caja. Quedo atento.",reclamo,plantillas
+"Estimados, ¿dónde reclamo? me atendieron mal en caja. Por favor.",reclamo,plantillas
+"Disculpe, ¿dónde reclamo? no me llegó la constancia que pagué. Gracias.",reclamo,plantillas
+"Hola, no estoy conforme porque dos veces la cuota de octubre. Saludos.",reclamo,plantillas
+"Buenas, ¿dónde reclamo? no responden mis correos desde hace semanas",reclamo,plantillas
+Quiero presentar un reclamo porque no responden mis correos desde hace semanas. Saludos.,reclamo,plantillas
+"Estimados, me cobraron una cuota que ya había pagado",reclamo,plantillas
+"Estimados, me cobraron el sistema me cobró de más",reclamo,plantillas
+"Disculpe, ¿dónde reclamo? dos veces la cuota de octubre. Por favor.",reclamo,plantillas
+Reclamo formal: me atendieron mal en caja,reclamo,plantillas
+"Buenos días, no estoy conforme porque no responden mis correos desde hace semanas. Gracias.",reclamo,plantillas
+"Estimados, reclamo formal: el sistema me cobró de más",reclamo,plantillas
+"Buenos días, tengo una queja: una cuota que ya había pagado",reclamo,plantillas
+"Hola, me cobraron la constancia salió con mis datos errados. Saludos.",reclamo,plantillas
+"Hola, quiero presentar un reclamo porque no me llegó la constancia que pagué",reclamo,plantillas
+"Hola, tengo una queja: el sistema me cobró de más. Por favor.",reclamo,plantillas
+Quiero presentar un reclamo porque una cuota que ya había pagado. Por favor.,reclamo,plantillas
+"Buenas, ¿dónde reclamo? la constancia salió con mis datos errados. Por favor.",reclamo,plantillas
+"Buenas, me cobraron me atendieron mal en caja",reclamo,plantillas
+"Disculpe, no estoy conforme porque la constancia salió con mis datos errados. Quedo atento.",reclamo,plantillas
+"Buenas, tengo una queja: no me llegó la constancia que pagué. Gracias.",reclamo,plantillas
+"Estimados, reclamo formal: no me llegó la constancia que pagué. Quedo atento.",reclamo,plantillas
+"Estimados, reclamo formal: no responden mis correos desde hace semanas. Quedo atento.",reclamo,plantillas
+Tengo una queja: no responden mis correos desde hace semanas. Gracias.,reclamo,plantillas
+"Hola, no estoy conforme porque no me llegó la constancia que pagué",reclamo,plantillas
+"Disculpe, no estoy conforme porque una cuota que ya había pagado",reclamo,plantillas
+"Buenas, ¿dónde reclamo? el sistema me cobró de más. Quedo atento.",reclamo,plantillas
+"Buenos días, me cobraron no responden mis correos desde hace semanas",reclamo,plantillas
+"Buenos días, quiero presentar un reclamo porque me atendieron mal en caja. Gracias.",reclamo,plantillas
+"Buenos días, no estoy conforme porque el sistema me cobró de más. Gracias.",reclamo,plantillas
+"Estimados, quiero presentar un reclamo porque dos veces la cuota de octubre",reclamo,plantillas
+"Hola, quiero presentar un reclamo porque el sistema me cobró de más",reclamo,plantillas
+"Buenas, me cobraron dos veces la cuota de octubre",reclamo,plantillas
+"Buenas, tengo una queja: dos veces la cuota de octubre",reclamo,plantillas
+¿dónde reclamo? una cuota que ya había pagado,reclamo,plantillas
+Tengo una queja: me atendieron mal en caja. Quedo atento.,reclamo,plantillas
+"Buenas, quiero presentar un reclamo porque la constancia salió con mis datos errados",reclamo,plantillas
+"Estimados, reclamo formal: dos veces la cuota de octubre. Quedo atento.",reclamo,plantillas
+"Hola, tengo una queja: la constancia salió con mis datos errados",reclamo,plantillas
+"Buenas, reclamo formal: una cuota que ya había pagado",reclamo,plantillas
+"Buenas, me cobraron no me llegó la constancia que pagué",reclamo,plantillas
+"Estimados, solicito el levantamiento de mi suspensión. Quedo atento.",levantamiento_sancion,plantillas
+Necesito que revisen mi sanción porque reparé el daño,levantamiento_sancion,plantillas
+"Hola, quiero que se levante mi amonestación",levantamiento_sancion,plantillas
+"Hola, estoy inhabilitado y quiero regularizar la inhabilitación. Quedo atento.",levantamiento_sancion,plantillas
+"Estimados, ya cumplí tres meses de mi suspensión, ¿qué sigo? Quedo atento.",levantamiento_sancion,plantillas
+"Buenas, necesito que revisen mi amonestación porque reparé el daño",levantamiento_sancion,plantillas
+"Buenas, quiero apelar mi sanción ante el Tribunal",levantamiento_sancion,plantillas
+Estoy sancionado y quiero regularizar la amonestación. Gracias.,levantamiento_sancion,plantillas
+"Buenas, estoy sancionado y quiero regularizar la inhabilitación. Por favor.",levantamiento_sancion,plantillas
+"Ya ya pasó el plazo de la sanción, quiero volver a estar hábil. Quedo atento.",levantamiento_sancion,plantillas
+Quiero apelar mi suspensión temporal ante el Tribunal,levantamiento_sancion,plantillas
+¿cómo pido que me quiten la suspensión?,levantamiento_sancion,plantillas
+"Hola, ya cumplí la mitad del plazo de mi suspensión, ¿qué sigo?",levantamiento_sancion,plantillas
+"Hola, estoy suspendido y quiero regularizar la suspensión. Por favor.",levantamiento_sancion,plantillas
+¿qué documentos presento para levantar mi inhabilitación? Gracias.,levantamiento_sancion,plantillas
+"Hola, quiero apelar mi suspensión ante el Tribunal. Gracias.",levantamiento_sancion,plantillas
+"Disculpe, ya cumplí la mitad del plazo de mi sanción, ¿qué sigo? Quedo atento.",levantamiento_sancion,plantillas
+"Estimados, ya cumplí la mitad del plazo de mi suspensión temporal, ¿qué sigo?",levantamiento_sancion,plantillas
+"Ya cumplí el tiempo indicado de mi suspensión temporal, ¿qué sigo? Gracias.",levantamiento_sancion,plantillas
+Solicito el levantamiento de mi amonestación. Por favor.,levantamiento_sancion,plantillas
+"Buenos días, necesito que revisen mi sanción porque ya pasó el plazo de la sanción. Gracias.",levantamiento_sancion,plantillas
+"Hola, ¿cómo pido que me quiten la inhabilitación? Por favor.",levantamiento_sancion,plantillas
+Pido mi rehabilitación porque ya pasó el plazo de la sanción,levantamiento_sancion,plantillas
+"Ya reparé el daño, quiero volver a estar hábil",levantamiento_sancion,plantillas
+"Hola, ya cumplí el tiempo indicado de mi sanción, ¿qué sigo? Saludos.",levantamiento_sancion,plantillas
+Pido mi rehabilitación porque cumplí lo que pidió el Tribunal. Por favor.,levantamiento_sancion,plantillas
+Estoy sancionado y quiero regularizar la sanción. Saludos.,levantamiento_sancion,plantillas
+"Estimados, solicito revisión anticipada de mi suspensión temporal. Gracias.",levantamiento_sancion,plantillas
+Estoy inhabilitado y quiero regularizar la suspensión temporal,levantamiento_sancion,plantillas
+"Disculpe, necesito que revisen mi suspensión porque reparé el daño. Por favor.",levantamiento_sancion,plantillas
+"Estimados, pido mi rehabilitación porque reparé el daño. Quedo atento.",levantamiento_sancion,plantillas
+"Estimados, ya cumplí el tiempo indicado de mi suspensión, ¿qué sigo?",levantamiento_sancion,plantillas
+"Disculpe, ¿cómo pido que me quiten la amonestación?",levantamiento_sancion,plantillas
+"Buenos días, quiero que se levante mi sanción",levantamiento_sancion,plantillas
+"Ya cumplí tres meses de mi sanción, ¿qué sigo? Quedo atento.",levantamiento_sancion,plantillas
+Estoy inhabilitado y quiero regularizar la suspensión. Saludos.,levantamiento_sancion,plantillas
+"Disculpe, estoy sancionado y quiero regularizar la suspensión temporal",levantamiento_sancion,plantillas
+"Estimados, solicito revisión anticipada de mi inhabilitación. Quedo atento.",levantamiento_sancion,plantillas
+"Disculpe, ya cumplí el tiempo indicado de mi amonestación, ¿qué sigo?",levantamiento_sancion,plantillas
+Necesito que revisen mi inhabilitación porque reparé el daño. Saludos.,levantamiento_sancion,plantillas
+¿cómo pido que me quiten la sanción? Gracias.,levantamiento_sancion,plantillas
+"Hola, necesito que revisen mi amonestación porque cumplí lo que pidió el Tribunal",levantamiento_sancion,plantillas
+"Ya cumplí la mitad del plazo de mi inhabilitación, ¿qué sigo?",levantamiento_sancion,plantillas
+"Disculpe, ¿cómo pido que me quiten la suspensión temporal? Saludos.",levantamiento_sancion,plantillas
+Necesito que revisen mi suspensión porque ya pasó el plazo de la sanción. Saludos.,levantamiento_sancion,plantillas
+"Estimados, ¿qué documentos presento para levantar mi sanción? Quedo atento.",levantamiento_sancion,plantillas
+"Ya cumplí la mitad del plazo de mi amonestación, ¿qué sigo? Gracias.",levantamiento_sancion,plantillas
+"Buenos días, estoy suspendido y quiero regularizar la suspensión temporal",levantamiento_sancion,plantillas
+"Estimados, quiero apelar mi amonestación ante el Tribunal. Por favor.",levantamiento_sancion,plantillas
+"Estimados, necesito que revisen mi suspensión porque cumplí lo que pidió el Tribunal. Quedo atento.",levantamiento_sancion,plantillas
+Necesito que revisen mi suspensión temporal porque reparé el daño. Saludos.,levantamiento_sancion,plantillas
+"Hola, quiero que se levante mi suspensión temporal",levantamiento_sancion,plantillas
+¿qué documentos presento para levantar mi suspensión? Por favor.,levantamiento_sancion,plantillas
+"Estimados, necesito que revisen mi suspensión temporal porque cumplí lo que pidió el Tribunal",levantamiento_sancion,plantillas
+"Estimados, ¿cuándo termina mi suspensión? Quedo atento.",levantamiento_sancion,plantillas
+Necesito que revisen mi inhabilitación porque cumplí lo que pidió el Tribunal,levantamiento_sancion,plantillas
+"Buenas, ¿qué documentos presento para levantar mi amonestación? Quedo atento.",levantamiento_sancion,plantillas
+¿cuándo termina mi amonestación? Quedo atento.,levantamiento_sancion,plantillas
+Necesito que revisen mi suspensión temporal porque ya pasó el plazo de la sanción,levantamiento_sancion,plantillas
+"Disculpe, ya cumplí tres meses de mi inhabilitación, ¿qué sigo? Por favor.",levantamiento_sancion,plantillas
+"Buenas, solicito revisión anticipada de mi sanción",levantamiento_sancion,plantillas
+Solicito el levantamiento de mi suspensión temporal. Saludos.,levantamiento_sancion,plantillas
+"Ya cumplí tres meses de mi amonestación, ¿qué sigo? Gracias.",levantamiento_sancion,plantillas
+Necesito que revisen mi inhabilitación porque ya pasó el plazo de la sanción. Quedo atento.,levantamiento_sancion,plantillas
+"Hola, quiero que se levante mi suspensión. Gracias.",levantamiento_sancion,plantillas
+"Hola, estoy sancionado y quiero regularizar la suspensión. Por favor.",levantamiento_sancion,plantillas
+"Estimados, estoy inhabilitado y quiero regularizar la sanción. Gracias.",levantamiento_sancion,plantillas
+"Buenas, solicito el levantamiento de mi sanción. Gracias.",levantamiento_sancion,plantillas
+Solicito revisión anticipada de mi suspensión. Gracias.,levantamiento_sancion,plantillas
+"Buenas, ¿cuándo termina mi sanción? Gracias.",levantamiento_sancion,plantillas
+"Ya cumplí lo que pidió el Tribunal, quiero volver a estar hábil. Por favor.",levantamiento_sancion,plantillas
+Solicito el levantamiento de mi inhabilitación. Saludos.,levantamiento_sancion,plantillas
+"Disculpe, estoy inhabilitado y quiero regularizar la amonestación",levantamiento_sancion,plantillas
+"Hola, necesito que revisen mi sanción porque cumplí lo que pidió el Tribunal",levantamiento_sancion,plantillas
+Necesito que revisen mi amonestación porque ya pasó el plazo de la sanción. Saludos.,levantamiento_sancion,plantillas
+"Estimado asistente, ¿podría informarme sobre los horarios de atención del Colegio Profesional?",consulta_general,llm
+"Saludos, quisiera conocer los estatutos vigentes del Colegio y dónde puedo acceder a ellos.",consulta_general,llm
+"Por favor, necesito información sobre los requisitos para la renovación de mi colegiatura.",consulta_general,llm
+"Estimado asistente, ¿me podría aclarar cómo funciona el Tribunal de Ética del Colegio?",consulta_general,llm
+"Hola, me gustaría saber cuándo se llevarán a cabo las próximas elecciones del Colegio Profesional.",consulta_general,llm
+Agradecería si me pudieran enviar un resumen de los estatutos del Colegio.,consulta_general,llm
+"Estimado asistente, ¿cuáles son los horarios de las reuniones del Tribunal de Ética?",consulta_general,llm
+"Saludos cordiales, quisiera saber si hay algún requisito adicional para participar en las elecciones.",consulta_general,llm
+"Por favor, necesito detalles sobre el proceso de apelación ante el Tribunal del Colegio.",consulta_general,llm
+"Estimado asistente, ¿podría indicarme los plazos para la presentación de documentos para la renovación de colegiatura?",consulta_general,llm
+"Hola, me gustaría saber si hay algún cambio en los horarios de atención del Colegio durante el mes de diciembre.",consulta_general,llm
+Agradecería información sobre los criterios de evaluación del Tribunal de Ética.,consulta_general,llm
+"Estimado asistente, ¿cuáles son los requisitos para ser candidato en las elecciones del Colegio?",consulta_general,llm
+"Saludos, quisiera saber si hay algún documento que deba presentar para acceder a los estatutos del Colegio.",consulta_general,llm
+"Por favor, necesito información sobre las fechas de las elecciones y cómo puedo votar.",consulta_general,llm
+"Estimado asistente, ¿podría indicarme si hay algún costo asociado a la renovación de mi colegiatura?",consulta_general,llm
+"Hola, me gustaría saber si el Colegio ofrece algún tipo de capacitación sobre los estatutos.",consulta_general,llm
+Agradecería si me pudieran informar sobre las funciones del Tribunal de Ética.,consulta_general,llm
+"Estimado asistente, ¿cuáles son los requisitos para presentar una queja ante el Tribunal del Colegio?",consulta_general,llm
+"Saludos cordiales, quisiera saber si hay algún procedimiento específico para la inscripción en las elecciones.",consulta_general,llm
+"Por favor, necesito detalles sobre los horarios de atención durante las festividades nacionales.",consulta_general,llm
+"Estimado asistente, ¿podría informarme sobre las sanciones que puede imponer el Tribunal de Ética?",consulta_general,llm
+"Hola, me gustaría saber si hay algún documento que deba presentar para acceder a las actas de las elecciones.",consulta_general,llm
+Agradecería información sobre los requisitos para la inscripción de nuevos miembros en el Colegio.,consulta_general,llm
+"Estimado asistente, ¿cuáles son los procedimientos para solicitar una revisión de los estatutos?",consulta_general,llm
+"Saludos, quisiera saber si hay algún tipo de capacitación sobre el funcionamiento del Tribunal.",consulta_general,llm
+"Por favor, necesito información sobre los plazos para la presentación de candidaturas en las elecciones.",consulta_general,llm
+"Estimado asistente, ¿podría indicarme si hay algún costo por la solicitud de documentos del Colegio?",consulta_general,llm
+"Hola, me gustaría saber si hay algún cambio en los horarios de atención durante el verano.",consulta_general,llm
+Agradecería si me pudieran informar sobre las funciones del Colegio en relación a la ética profesional.,consulta_general,llm
+"Estimado asistente, ¿cuáles son los requisitos para participar en las asambleas del Colegio?",consulta_general,llm
+"Saludos cordiales, quisiera saber si hay algún procedimiento para solicitar una audiencia con el Tribunal.",consulta_general,llm
+"Por favor, necesito detalles sobre los criterios de selección de los miembros del Tribunal de Ética.",consulta_general,llm
+"Estimado asistente, ¿podría informarme sobre las fechas de las próximas capacitaciones ofrecidas por el Colegio?",consulta_general,llm
+"Hola, me gustaría saber si hay algún documento que deba presentar para acceder a las actas del Tribunal.",consulta_general,llm
+Agradecería información sobre los requisitos para la presentación de informes anuales al Colegio.,consulta_general,llm
+"Estimado asistente, ¿cuáles son los procedimientos para la modificación de los estatutos del Colegio?",consulta_general,llm
+"Saludos, quisiera saber si hay algún tipo de apoyo para los nuevos miembros del Colegio.",consulta_general,llm
+"Por favor, necesito información sobre los horarios de atención durante el periodo de elecciones.",consulta_general,llm
+"Estimado asistente, ¿podría indicarme si hay algún costo por la participación en las elecciones?",consulta_general,llm
+"Hola, me gustaría saber si hay algún documento que deba presentar para acceder a los informes del Tribunal.",consulta_general,llm
+Agradecería si me pudieran informar sobre los requisitos para la presentación de quejas formales.,consulta_general,llm
+"Estimado asistente, ¿cuáles son los procedimientos para la elección de nuevos miembros del Tribunal?",consulta_general,llm
+"Saludos cordiales, quisiera saber si hay algún tipo de capacitación sobre los derechos y deberes de los colegiados.",consulta_general,llm
+"Por favor, necesito detalles sobre los horarios de atención del Colegio durante el mes de enero.",consulta_general,llm
+"Hola, ¿cuáles son los horarios de atención del colegio?",consulta_general,llm
+¿Dónde puedo encontrar los estatutos del colegio?,consulta_general,llm
+"Tengo dudas sobre los requisitos para inscribirme, ¿me ayudas?",consulta_general,llm
+¿Qué pasa si no cumplo con los requisitos del Tribunal?,consulta_general,llm
+¿Cuándo son las próximas elecciones en el colegio?,consulta_general,llm
+¿Hay algún documento que deba presentar para el Tribunal?,consulta_general,llm
+¿Puedo ver los estatutos en línea?,consulta_general,llm
+¿A qué hora abren el colegio los sábados?,consulta_general,llm
+¿Cuáles son los requisitos para ser miembro del Tribunal?,consulta_general,llm
+¿Cómo puedo participar en las elecciones?,consulta_general,llm
+¿Hay algún plazo para presentar documentos al Tribunal?,consulta_general,llm
+¿Dónde encuentro información sobre las elecciones?,consulta_general,llm
+¿Qué días hay atención al público?,consulta_general,llm
+¿Puedo hacer consultas por correo o solo aquí?,consulta_general,llm
+¿Hay algún costo para inscribirme en el colegio?,consulta_general,llm
+¿Qué requisitos necesito para renovar mi membresía?,consulta_general,llm
+¿Cuándo se publican los resultados de las elecciones?,consulta_general,llm
+¿Puedo asistir a las reuniones del Tribunal?,consulta_general,llm
+¿Hay algún formato específico para presentar mis dudas?,consulta_general,llm
+¿Qué pasa si no puedo asistir a las elecciones?,consulta_general,llm
+¿Dónde puedo ver la lista de candidatos para el Tribunal?,consulta_general,llm
+¿Hay algún número de contacto para emergencias?,consulta_general,llm
+¿Puedo enviar mis documentos por email?,consulta_general,llm
+¿Cuáles son los horarios de las reuniones del Tribunal?,consulta_general,llm
+¿Qué debo hacer si tengo un problema con mi inscripción?,consulta_general,llm
+¿Hay algún requisito especial para los nuevos miembros?,consulta_general,llm
+¿Cómo puedo saber si estoy al día con mis pagos?,consulta_general,llm
+¿Qué tipo de actividades organiza el colegio?,consulta_general,llm
+¿Hay algún grupo en redes sociales del colegio?,consulta_general,llm
+¿Puedo hacer una consulta anónima?,consulta_general,llm
+¿Qué documentos necesito para participar en las elecciones?,consulta_general,llm
+¿Hay algún requisito para ser candidato al Tribunal?,consulta_general,llm
+¿Cuándo se actualizan los estatutos?,consulta_general,llm
+¿Puedo asistir a las elecciones aunque no esté al día?,consulta_general,llm
+¿Dónde puedo encontrar el reglamento interno?,consulta_general,llm
+¿Hay algún evento próximo que deba conocer?,consulta_general,llm
+¿Qué pasa si no estoy de acuerdo con una decisión del Tribunal?,consulta_general,llm
+¿Cómo puedo postularme para el Tribunal?,consulta_general,llm
+¿Hay algún costo por participar en las elecciones?,consulta_general,llm
+¿Qué requisitos hay para los postulantes?,consulta_general,llm
+¿Dónde puedo ver las actas de las reuniones?,consulta_general,llm
+¿Hay algún plazo para presentar quejas?,consulta_general,llm
+¿Cómo se eligen a los miembros del Tribunal?,consulta_general,llm
+¿Puedo hacer preguntas sobre el proceso electoral?,consulta_general,llm
+¿Qué debo hacer si tengo dudas sobre mi estado?,consulta_general,llm
+¿Hay algún canal de comunicación directa con el colegio?,consulta_general,llm
+Solicito la constancia de habilitación profesional para presentar en la universidad.,constancia_habilitacion,llm
+Requiero el certificado de habilitación para poder participar en un evento académico.,constancia_habilitacion,llm
+"Por medio de la presente, solicito la constancia de habilitación para trámites administrativos.",constancia_habilitacion,llm
+Necesito el certificado de habilitación para poder ejercer mi profesión en el extranjero.,constancia_habilitacion,llm
+Solicito la constancia de habilitación para adjuntar a mi currículum vitae.,constancia_habilitacion,llm
+Requiero el certificado de habilitación para la renovación de mi licencia profesional.,constancia_habilitacion,llm
+"Por favor, envíenme la constancia de habilitación para un proyecto de investigación.",constancia_habilitacion,llm
+Solicito el certificado de habilitación para poder acceder a una beca de estudios.,constancia_habilitacion,llm
+Necesito la constancia de habilitación para presentar en una convocatoria laboral.,constancia_habilitacion,llm
+Requiero el certificado de habilitación para realizar un trámite en el ministerio.,constancia_habilitacion,llm
+"Por medio de la presente, solicito la constancia de habilitación para un concurso profesional.",constancia_habilitacion,llm
+Solicito el certificado de habilitación para poder participar en una feria de empleo.,constancia_habilitacion,llm
+Necesito la constancia de habilitación para la inscripción en un diplomado.,constancia_habilitacion,llm
+Requiero el certificado de habilitación para poder ejercer en una nueva región.,constancia_habilitacion,llm
+"Por favor, envíenme la constancia de habilitación para un proyecto de voluntariado.",constancia_habilitacion,llm
+Solicito el certificado de habilitación para la presentación de un informe técnico.,constancia_habilitacion,llm
+Necesito la constancia de habilitación para la firma de un contrato profesional.,constancia_habilitacion,llm
+Requiero el certificado de habilitación para la validación de mis estudios en el extranjero.,constancia_habilitacion,llm
+"Por medio de la presente, solicito la constancia de habilitación para un trámite judicial.",constancia_habilitacion,llm
+Solicito el certificado de habilitación para poder acceder a un programa de capacitación.,constancia_habilitacion,llm
+Necesito la constancia de habilitación para la presentación de una propuesta técnica.,constancia_habilitacion,llm
+Requiero el certificado de habilitación para la inscripción en un curso especializado.,constancia_habilitacion,llm
+"Por favor, envíenme la constancia de habilitación para un trámite en la municipalidad.",constancia_habilitacion,llm
+Solicito el certificado de habilitación para poder participar en una conferencia internacional.,constancia_habilitacion,llm
+Necesito la constancia de habilitación para la presentación de un proyecto ante una ONG.,constancia_habilitacion,llm
+Requiero el certificado de habilitación para la obtención de un subsidio profesional.,constancia_habilitacion,llm
+"Por medio de la presente, solicito la constancia de habilitación para un trámite bancario.",constancia_habilitacion,llm
+Solicito el certificado de habilitación para poder ejercer en una nueva especialidad.,constancia_habilitacion,llm
+Necesito la constancia de habilitación para la presentación de un trabajo de investigación.,constancia_habilitacion,llm
+Requiero el certificado de habilitación para la firma de un convenio profesional.,constancia_habilitacion,llm
+"Por favor, envíenme la constancia de habilitación para un trámite en el colegio de abogados.",constancia_habilitacion,llm
+Solicito el certificado de habilitación para poder acceder a un programa de mentoría.,constancia_habilitacion,llm
+Necesito la constancia de habilitación para la presentación de un informe de auditoría.,constancia_habilitacion,llm
+Requiero el certificado de habilitación para la inscripción en un programa de maestría.,constancia_habilitacion,llm
+"Por medio de la presente, solicito la constancia de habilitación para un trámite de visa.",constancia_habilitacion,llm
+Solicito el certificado de habilitación para poder participar en un simposio académico.,constancia_habilitacion,llm
+Necesito la constancia de habilitación para la presentación de un proyecto de ley.,constancia_habilitacion,llm
+Requiero el certificado de habilitación para la obtención de un permiso de trabajo.,constancia_habilitacion,llm
+"Por favor, envíenme la constancia de habilitación para un trámite en el registro público.",constancia_habilitacion,llm
+Solicito el certificado de habilitación para poder ejercer en el sector público.,constancia_habilitacion,llm
+Necesito la constancia de habilitación para la presentación de un informe pericial.,constancia_habilitacion,llm
+Requiero el certificado de habilitación para la inscripción en un programa de especialización.,constancia_habilitacion,llm
+"Por medio de la presente, solicito la constancia de habilitación para un trámite de certificación.",constancia_habilitacion,llm
+Solicito el certificado de habilitación para poder participar en un taller profesional.,constancia_habilitacion,llm
+Necesito la constancia de habilitación para la presentación de un proyecto ante el gobierno.,constancia_habilitacion,llm
+Requiero el certificado de habilitación para la firma de un contrato de consultoría.,constancia_habilitacion,llm
+"Por favor, envíenme la constancia de habilitación para un trámite en el ministerio de educación.",constancia_habilitacion,llm
+"Hola, necesito la constancia de habilitacion, porfa.",constancia_habilitacion,llm
+"Hola, me puedes enviar mi certificado de habilitacion?",constancia_habilitacion,llm
+"Quiero mi constancia de habilitacion, urgente!",constancia_habilitacion,llm
+"Hola, como pido mi certificado de estar habilitado?",constancia_habilitacion,llm
+Necesito la constancia de habilitacion para un trabajo.,constancia_habilitacion,llm
+"Porfa, mandame mi certificado de habilitacion.",constancia_habilitacion,llm
+"Hola, estoy habilitado? Necesito la constancia.",constancia_habilitacion,llm
+"Hola, necesito mi constancia de habilitacion para un tramite.",constancia_habilitacion,llm
+Me puedes ayudar con mi certificado de habilitacion?,constancia_habilitacion,llm
+"Hola, quiero saber si estoy habilitado y necesito el certificado.",constancia_habilitacion,llm
+"Por favor, necesito la constancia de habilitacion ya!",constancia_habilitacion,llm
+"Hola, como hago para obtener mi certificado de habilitacion?",constancia_habilitacion,llm
+"Necesito mi constancia de habilitacion, gracias!",constancia_habilitacion,llm
+"Hola, me puedes enviar mi constancia de estar habilitado?",constancia_habilitacion,llm
+"Quiero mi certificado de habilitacion, porfa.",constancia_habilitacion,llm
+"Hola, necesito la constancia de habilitacion para presentar.",constancia_habilitacion,llm
+"Me urge mi certificado de habilitacion, ayúdame.",constancia_habilitacion,llm
+"Hola, necesito saber si estoy habilitado y la constancia.",constancia_habilitacion,llm
+"Porfa, necesito mi constancia de habilitacion urgente.",constancia_habilitacion,llm
+"Hola, como puedo obtener mi certificado de habilitacion?",constancia_habilitacion,llm
+Necesito la constancia de habilitacion para un proyecto.,constancia_habilitacion,llm
+"Hola, me puedes ayudar con mi certificado de habilitacion?",constancia_habilitacion,llm
+"Quiero mi constancia de habilitacion, por favor.",constancia_habilitacion,llm
+"Hola, necesito mi certificado de habilitacion ya!",constancia_habilitacion,llm
+"Me urge la constancia de habilitacion, porfa.",constancia_habilitacion,llm
+"Hola, como pido mi constancia de estar habilitado?",constancia_habilitacion,llm
+Necesito mi certificado de habilitacion para un trabajo.,constancia_habilitacion,llm
+"Porfa, mandame mi constancia de habilitacion.",constancia_habilitacion,llm
+"Estimado asistente, quisiera consultar el estado de mis cuotas pendientes en el colegio profesional.",pago_cuotas,llm
+"Por favor, indíqueme los medios de pago disponibles para saldar mis deudas con el colegio.",pago_cuotas,llm
+Solicito información sobre el monto total de mis cuotas anuales y su fecha de vencimiento.,pago_cuotas,llm
+Me gustaría saber si puedo realizar el pago de mis cuotas a través de transferencia bancaria.,pago_cuotas,llm
+"Por favor, confirmen si mi pago de cuotas ha sido registrado correctamente.",pago_cuotas,llm
+¿Cuáles son las opciones de pago que ofrecen para las deudas acumuladas?,pago_cuotas,llm
+Solicito detalles sobre el proceso para regularizar mis cuotas atrasadas.,pago_cuotas,llm
+¿Es posible pagar mis cuotas a través de una aplicación móvil? Agradecería su orientación.,pago_cuotas,llm
+"Por favor, indíquenme si hay algún descuento por pronto pago de mis cuotas.",pago_cuotas,llm
+Quisiera saber si puedo acceder a un plan de pagos para mis deudas con el colegio.,pago_cuotas,llm
+Solicito información sobre las fechas límite para el pago de mis cuotas anuales.,pago_cuotas,llm
+¿Pueden proporcionarme un recibo digital una vez que realice el pago de mis cuotas?,pago_cuotas,llm
+Me gustaría saber si hay algún cargo adicional por el pago tardío de mis cuotas.,pago_cuotas,llm
+"Por favor, confirmen si el pago de mis cuotas se puede realizar en línea.",pago_cuotas,llm
+Solicito información sobre las consecuencias de no pagar mis cuotas a tiempo.,pago_cuotas,llm
+¿Cuáles son los pasos para actualizar mis datos de pago en el sistema del colegio?,pago_cuotas,llm
+"Por favor, indíquenme si hay algún número de cuenta específico para realizar el pago.",pago_cuotas,llm
+Quisiera saber si puedo pagar mis cuotas en efectivo en alguna oficina del colegio.,pago_cuotas,llm
+Solicito detalles sobre el proceso para solicitar un estado de cuenta de mis cuotas.,pago_cuotas,llm
+¿Es posible realizar el pago de mis cuotas a través de un cheque? Agradecería su respuesta.,pago_cuotas,llm
+"Por favor, confirmen si hay algún plazo para regularizar mis deudas antes de ser sancionado.",pago_cuotas,llm
+Me gustaría saber si puedo dividir el pago de mis cuotas en varias partes.,pago_cuotas,llm
+Solicito información sobre los métodos de pago aceptados para las deudas del colegio.,pago_cuotas,llm
+¿Pueden indicarme si hay algún cargo por el uso de tarjetas de crédito para el pago?,pago_cuotas,llm
+"Por favor, confirmen si el pago de mis cuotas se puede realizar en cualquier banco.",pago_cuotas,llm
+Quisiera saber si hay algún formulario que deba completar para solicitar un plan de pagos.,pago_cuotas,llm
+Solicito detalles sobre las fechas de corte para el pago de mis cuotas.,pago_cuotas,llm
+¿Es posible recibir recordatorios sobre el vencimiento de mis cuotas pendientes?,pago_cuotas,llm
+"Por favor, indíquenme si hay algún programa de apoyo para colegiados con deudas.",pago_cuotas,llm
+Me gustaría saber si puedo realizar el pago de mis cuotas desde el extranjero.,pago_cuotas,llm
+Solicito información sobre las tasas de interés aplicables a las deudas del colegio.,pago_cuotas,llm
+¿Pueden proporcionarme un contacto directo para resolver dudas sobre mis cuotas?,pago_cuotas,llm
+"Por favor, confirmen si hay algún cargo por realizar pagos en diferentes monedas.",pago_cuotas,llm
+Quisiera saber si hay algún beneficio por ser miembro activo al día con mis cuotas.,pago_cuotas,llm
+Solicito detalles sobre el proceso para apelar sanciones por falta de pago.,pago_cuotas,llm
+¿Es posible realizar el pago de mis cuotas a través de un sistema de débito automático?,pago_cuotas,llm
+"Por favor, indíquenme si hay algún límite en el monto de las cuotas que puedo pagar en línea.",pago_cuotas,llm
+Me gustaría saber si puedo acceder a un historial de mis pagos realizados.,pago_cuotas,llm
+Solicito información sobre las políticas de reembolso en caso de pago duplicado.,pago_cuotas,llm
+¿Pueden indicarme si hay algún cargo por el uso de plataformas de pago en línea?,pago_cuotas,llm
+"Por favor, confirmen si el pago de mis cuotas se puede realizar en cualquier momento del día.",pago_cuotas,llm
+Quisiera saber si hay algún programa de financiamiento para colegiados con deudas.,pago_cuotas,llm
+Solicito detalles sobre las consecuencias legales de no pagar mis cuotas a tiempo.,pago_cuotas,llm
+¿Es posible recibir asesoría sobre la gestión de mis deudas con el colegio?,pago_cuotas,llm
+"Por favor, indíquenme si hay algún límite en el número de cuotas que puedo pagar a la vez.",pago_cuotas,llm
+Me gustaría saber si hay algún tipo de interés por mora en el pago de mis cuotas.,pago_cuotas,llm
+"Hola, como puedo pagar mi cuota este mes?",pago_cuotas,llm
+Quiero saber si tengo deudas pendientes.,pago_cuotas,llm
+"Me olvidé de pagar mi cuota, que hago?",pago_cuotas,llm
+Cual es el medio de pago para las cuotas?,pago_cuotas,llm
+"Hola, tengo una deuda, como la puedo saldar?",pago_cuotas,llm
+Puedo pagar mi cuota con tarjeta?,pago_cuotas,llm
+Cuanto debo pagar este mes?,pago_cuotas,llm
+Hay alguna forma de pagar online?,pago_cuotas,llm
+Me pueden enviar el link para pagar?,pago_cuotas,llm
+"Hola, tengo dudas sobre mis cuotas.",pago_cuotas,llm
+Cual es la fecha limite para pagar?,pago_cuotas,llm
+Puedo pagar en efectivo en la oficina?,pago_cuotas,llm
+Que pasa si no pago a tiempo?,pago_cuotas,llm
+Como puedo saber mi saldo actual?,pago_cuotas,llm
+"Hola, necesito info sobre mis deudas.",pago_cuotas,llm
+Hay descuentos por pagar antes de la fecha?,pago_cuotas,llm
+Me olvidé mi clave para acceder al pago online.,pago_cuotas,llm
+Puedo hacer un plan de pagos?,pago_cuotas,llm
+Cual es el monto de la cuota este año?,pago_cuotas,llm
+"Hola, como consulto mis pagos anteriores?",pago_cuotas,llm
+Hay alguna app para pagar las cuotas?,pago_cuotas,llm
+Me pueden ayudar con el pago de mi deuda?,pago_cuotas,llm
+Cual es el proceso para pagar online?,pago_cuotas,llm
+"Hola, tengo problemas para pagar mi cuota.",pago_cuotas,llm
+Que medios de pago aceptan?,pago_cuotas,llm
+Puedo pagar mi deuda en partes?,pago_cuotas,llm
+"Hola, necesito saber si tengo multas.",pago_cuotas,llm
+Como puedo actualizar mis datos de pago?,pago_cuotas,llm
+Hay alguna forma de pagar por celular?,pago_cuotas,llm
+Cual es el plazo para pagar la cuota?,pago_cuotas,llm
+"Hola, me gustaría saber si hay recargos.",pago_cuotas,llm
+Puedo pagar mi cuota en el banco?,pago_cuotas,llm
+Como consulto mis deudas acumuladas?,pago_cuotas,llm
+"Hola, que pasa si no puedo pagar este mes?",pago_cuotas,llm
+Cual es el monto total de mi deuda?,pago_cuotas,llm
+Hay alguna forma de pagar por transferencia?,pago_cuotas,llm
+"Hola, necesito ayuda con el pago online.",pago_cuotas,llm
+Cual es el procedimiento para pagar cuotas atrasadas?,pago_cuotas,llm
+Me pueden enviar un recordatorio de pago?,pago_cuotas,llm
+"Hola, tengo dudas sobre el monto de mi cuota.",pago_cuotas,llm
+Puedo pagar mi cuota en la oficina?,pago_cuotas,llm
+Como puedo saber si mi pago fue recibido?,pago_cuotas,llm
+"Hola, que debo hacer si tengo problemas con el pago?",pago_cuotas,llm
+Cual es el horario para pagar en la oficina?,pago_cuotas,llm
+"Estimado asistente, solicito la corrección de mi dirección registrada en el sistema, ya que he cambiado de residencia.",actualizacion_datos,llm
+"Por medio de la presente, deseo actualizar mi correo electrónico en los registros del colegio profesional.",actualizacion_datos,llm
+"Me gustaría modificar mi número de teléfono en la base de datos, ya que el actual ya no es válido.",actualizacion_datos,llm
+"Solicito la rectificación de mi dirección personal, ya que he mudado recientemente.",actualizacion_datos,llm
+"Por favor, actualicen mi información de contacto, específicamente mi correo electrónico.",actualizacion_datos,llm
+"Requiero cambiar mi número telefónico registrado, ya que he adquirido un nuevo dispositivo.",actualizacion_datos,llm
+"Estimados, necesito que se actualice mi dirección en los registros del colegio profesional.",actualizacion_datos,llm
+"Solicito la modificación de mi correo electrónico, ya que el anterior no está en uso.",actualizacion_datos,llm
+"Por favor, actualicen mi número de teléfono, ya que he cambiado de línea.",actualizacion_datos,llm
+"Deseo corregir mi dirección personal en el sistema, ya que he cambiado de domicilio.",actualizacion_datos,llm
+Solicito que se actualice mi correo electrónico en los registros del colegio profesional.,actualizacion_datos,llm
+"Me gustaría modificar mi número de teléfono, ya que el actual no es correcto.",actualizacion_datos,llm
+"Por medio de este mensaje, solicito la corrección de mi dirección registrada.",actualizacion_datos,llm
+"Estimado asistente, necesito que se actualice mi correo electrónico en su base de datos.",actualizacion_datos,llm
+"Requiero cambiar mi número de teléfono, ya que he cambiado de proveedor de servicios.",actualizacion_datos,llm
+"Solicito la modificación de mi dirección personal, ya que he cambiado de residencia.",actualizacion_datos,llm
+"Por favor, actualicen mi correo electrónico, ya que he creado una nueva cuenta.",actualizacion_datos,llm
+"Deseo corregir mi número de teléfono registrado, ya que el anterior es incorrecto.",actualizacion_datos,llm
+"Estimados, solicito la actualización de mi dirección en los registros del colegio.",actualizacion_datos,llm
+"Me gustaría modificar mi correo electrónico, ya que el anterior ha sido desactivado.",actualizacion_datos,llm
+"Por medio de la presente, solicito la corrección de mi número telefónico registrado.",actualizacion_datos,llm
+Requiero que se actualice mi dirección personal en la base de datos del colegio profesional.,actualizacion_datos,llm
+"Solicito la modificación de mi correo electrónico, ya que he cambiado de proveedor.",actualizacion_datos,llm
+"Por favor, actualicen mi número de teléfono, ya que he cambiado de línea telefónica.",actualizacion_datos,llm
+"Deseo corregir mi dirección registrada, ya que he mudado a un nuevo domicilio.",actualizacion_datos,llm
+"Estimado asistente, necesito que se actualice mi correo electrónico en su sistema.",actualizacion_datos,llm
+"Requiero cambiar mi número de teléfono, ya que el actual no es válido.",actualizacion_datos,llm
+"Por favor, actualicen mi correo electrónico, ya que he cambiado de cuenta.",actualizacion_datos,llm
+"Deseo corregir mi número telefónico registrado, ya que el anterior no es correcto.",actualizacion_datos,llm
+"Estimados, solicito la actualización de mi dirección en los registros del colegio profesional.",actualizacion_datos,llm
+"Por medio de este mensaje, solicito la corrección de mi número telefónico registrado.",actualizacion_datos,llm
+Requiero que se actualice mi dirección personal en la base de datos del colegio.,actualizacion_datos,llm
+"Hola, necesito cambiar mi dirección, no es la misma ya.",actualizacion_datos,llm
+"Oye, mi correo está mal, porfa corrige eso.",actualizacion_datos,llm
+"Quiero actualizar mi número de teléfono, el que tienen ya no es.",actualizacion_datos,llm
+"Ayuda, mi dirección está equivocada, no vivo ahí.",actualizacion_datos,llm
+"Cambié de correo, porfa actualiza el que tienen.",actualizacion_datos,llm
+"Mi teléfono ya no es el mismo, necesito que lo cambien.",actualizacion_datos,llm
+"Hola, mi dirección actual es otra, porfa actualiza.",actualizacion_datos,llm
+"El correo que tienen no es el correcto, ayúdenme.",actualizacion_datos,llm
+"Necesito cambiar mi número, el que tienen ya no sirve.",actualizacion_datos,llm
+"Mi dirección está mal, por favor corríjanla.",actualizacion_datos,llm
+"Cambié de correo electrónico, porfa actualicen.",actualizacion_datos,llm
+"Mi teléfono está incorrecto, necesito que lo cambien.",actualizacion_datos,llm
+"Hola, mi dirección ya no es esa, porfa actualicen.",actualizacion_datos,llm
+"El correo que tienen es viejo, necesito cambiarlo.",actualizacion_datos,llm
+"Mi número de teléfono cambió, porfa actualicen.",actualizacion_datos,llm
+"Ayuda, mi dirección no es la correcta, porfa cambien.",actualizacion_datos,llm
+"Quiero que cambien mi correo, no es el que uso.",actualizacion_datos,llm
+"Mi teléfono está mal, porfa corríjanlo.",actualizacion_datos,llm
+"Hola, necesito que actualicen mi dirección, gracias.",actualizacion_datos,llm
+"El correo que tienen no es el mío, porfa cambien.",actualizacion_datos,llm
+"Cambié de número, porfa actualicen eso.",actualizacion_datos,llm
+"Mi dirección está equivocada, ayúdenme a corregirla.",actualizacion_datos,llm
+"Hola, mi correo no es ese, porfa cambien.",actualizacion_datos,llm
+"Necesito que cambien mi teléfono, el que tienen no es.",actualizacion_datos,llm
+"Mi dirección actual es diferente, porfa actualicen.",actualizacion_datos,llm
+"El correo que tienen está mal, necesito que lo cambien.",actualizacion_datos,llm
+"Cambié de teléfono, porfa actualicen mi info.",actualizacion_datos,llm
+"Hola, mi dirección no es esa, porfa corríjanla.",actualizacion_datos,llm
+"El correo que tienen no es correcto, ayúdenme.",actualizacion_datos,llm
+"Ayuda, mi dirección está mal, necesito que la cambien.",actualizacion_datos,llm
+"Quiero que cambien mi correo, no es el correcto.",actualizacion_datos,llm
+"Mi teléfono está incorrecto, porfa corríjanlo.",actualizacion_datos,llm
+"Estimado asistente, me gustaría presentar una queja formal por los cobros indebidos que he recibido en mi estado de cuenta.",reclamo,llm
+Solicito su atención para resolver un problema relacionado con la mala atención que he recibido en la oficina del colegio profesional.,reclamo,llm
+He notado que la constancia de mi inscripción está errada. Agradecería su ayuda para corregir este inconveniente.,reclamo,llm
+Me gustaría expresar mi descontento por la falta de respuesta a mis consultas anteriores sobre cobros no autorizados.,reclamo,llm
+"Por favor, necesito aclarar un cobro que no reconozco en mi factura del colegio profesional.",reclamo,llm
+He intentado comunicarme en varias ocasiones y la atención ha sido deficiente. Solicito una solución a este problema.,reclamo,llm
+La constancia que recibí no refleja correctamente mis datos. Solicito su pronta corrección.,reclamo,llm
+Me siento frustrado por la falta de atención al cliente en el colegio. Espero que se tomen medidas al respecto.,reclamo,llm
+He recibido una constancia que no coincide con mi situación actual. Agradecería su pronta asistencia.,reclamo,llm
+"Por favor, necesito que revisen un cobro que parece ser un error en mi cuenta.",reclamo,llm
+La atención que he recibido en mis últimas visitas ha sido insatisfactoria. Espero que se tomen acciones para mejorar.,reclamo,llm
+Solicito la corrección de una constancia que contiene información incorrecta sobre mi especialidad.,reclamo,llm
+He presentado una queja anteriormente y no he recibido respuesta. Solicito seguimiento a mi caso.,reclamo,llm
+Me gustaría saber por qué se me ha cobrado una tarifa adicional sin previo aviso.,reclamo,llm
+La atención al cliente en el colegio ha sido muy deficiente. Espero que se tomen medidas para mejorar.,reclamo,llm
+He solicitado una constancia y aún no la he recibido. Agradecería su pronta gestión.,reclamo,llm
+Me gustaría presentar una queja formal por el trato recibido en mi última visita a la oficina.,reclamo,llm
+He notado un cobro duplicado en mi cuenta. Solicito su revisión inmediata.,reclamo,llm
+La constancia que me enviaron tiene errores en mis datos personales. Necesito que se corrija a la brevedad.,reclamo,llm
+La atención telefónica ha sido muy mala. Solicito que se mejore este servicio.,reclamo,llm
+He enviado varios correos y no he recibido respuesta sobre un cobro que considero erróneo.,reclamo,llm
+La constancia que recibí no tiene la validez que esperaba. Solicito una nueva emisión.,reclamo,llm
+Me gustaría saber por qué no he recibido la constancia que solicité hace semanas.,reclamo,llm
+La atención en la oficina ha sido muy lenta y poco eficiente. Espero que se tomen medidas.,reclamo,llm
+He recibido un cobro por un servicio que no he solicitado. Solicito su revisión.,reclamo,llm
+La constancia que me enviaron tiene errores en la fecha de emisión. Necesito que se corrija.,reclamo,llm
+Me siento insatisfecho con la atención recibida en mi última consulta. Espero una mejora.,reclamo,llm
+He solicitado una constancia de manera formal y aún no tengo respuesta. Agradecería su ayuda.,reclamo,llm
+La atención al cliente en el colegio profesional ha sido muy deficiente en mis últimas experiencias.,reclamo,llm
+He notado un cobro que no corresponde a mis servicios. Solicito su revisión inmediata.,reclamo,llm
+La constancia que recibí no refleja mi situación actual. Necesito que se corrija urgentemente.,reclamo,llm
+Me gustaría presentar una queja por la falta de atención en la oficina del colegio profesional.,reclamo,llm
+He enviado varias solicitudes y no he recibido respuesta sobre un cobro que considero erróneo.,reclamo,llm
+La constancia que me enviaron tiene errores en mi nombre. Solicito su corrección.,reclamo,llm
+La atención en la oficina ha sido muy deficiente. Espero que se tomen medidas para mejorar.,reclamo,llm
+He recibido un cobro por un servicio que no he utilizado. Solicito su revisión.,reclamo,llm
+La constancia que recibí no tiene la información correcta. Necesito que se emita una nueva.,reclamo,llm
+Me gustaría saber por qué no he recibido respuesta a mis consultas sobre cobros.,reclamo,llm
+La atención al cliente ha sido muy insatisfactoria en mis últimas visitas. Espero una mejora.,reclamo,llm
+He notado un cobro que no reconozco en mi estado de cuenta. Solicito su revisión.,reclamo,llm
+La constancia que me enviaron tiene errores en la información. Necesito que se corrija.,reclamo,llm
+Me siento frustrado por la falta de atención en la oficina del colegio profesional.,reclamo,llm
+"Hola, tengo un problema con un cobro que no entiendo.",reclamo,llm
+"Me cobraron de más, necesito que me ayuden con eso.",reclamo,llm
+"La atención que recibí fue pésima, no me resolvieron nada.",reclamo,llm
+"No me llegó la constancia que pedí, ¿qué pasó?",reclamo,llm
+"Me mandaron una constancia errada, necesito que la corrijan.",reclamo,llm
+No puedo creer que me cobren por algo que no pedí.,reclamo,llm
+"La chica que me atendió no sabía nada, muy mal.",reclamo,llm
+¿Por qué tardan tanto en enviar las constancias?,reclamo,llm
+"Me hicieron un cobro doble, esto no puede ser.",reclamo,llm
+"La atención al cliente es un desastre, por favor mejoren.",reclamo,llm
+"La constancia que me enviaron tiene errores, ayúdenme.",reclamo,llm
+No recibí mi constancia y ya pasó un mes.,reclamo,llm
+"Me siento frustrado con el servicio, no hay respuesta.",reclamo,llm
+Me cobraron por un trámite que nunca hice.,reclamo,llm
+"La atención fue muy lenta, no me gustó.",reclamo,llm
+La constancia que me mandaron no es la correcta.,reclamo,llm
+No entiendo por qué me están cobrando esto.,reclamo,llm
+La chica que me atendió no me ayudó en nada.,reclamo,llm
+No tengo mi constancia y ya estoy preocupado.,reclamo,llm
+Me llegó una constancia con datos incorrectos.,reclamo,llm
+"No puedo comunicarme con nadie, esto es un caos.",reclamo,llm
+"Me cobraron un monto que no corresponde, por favor revisen.",reclamo,llm
+"La atención fue muy fría, no me sentí bien atendido.",reclamo,llm
+No me han enviado la constancia que pedí hace semanas.,reclamo,llm
+"Me siento ignorado, nadie responde mis mensajes.",reclamo,llm
+La constancia que me enviaron tiene mi nombre mal.,reclamo,llm
+No entiendo por qué hay tantos cobros extra.,reclamo,llm
+"La atención fue muy desorganizada, no me gustó.",reclamo,llm
+"No tengo noticias de mi constancia, ¿qué pasa?",reclamo,llm
+Me hicieron un cobro por un servicio que no usé.,reclamo,llm
+"La atención fue muy mala, no me ayudaron en nada.",reclamo,llm
+La constancia que me mandaron no tiene mi firma.,reclamo,llm
+"No puedo creer que no me respondan, es frustrante.",reclamo,llm
+Me cobraron por un trámite que ya había pagado.,reclamo,llm
+"La atención fue muy lenta, no me gustó nada.",reclamo,llm
+No tengo mi constancia y ya estoy desesperado.,reclamo,llm
+"Me llegó una constancia con errores, necesito que la cambien.",reclamo,llm
+No entiendo por qué hay tantos problemas con los cobros.,reclamo,llm
+"La atención fue muy mala, no me sentí escuchado.",reclamo,llm
+"No tengo noticias de mi constancia, ¿dónde está?",reclamo,llm
+"Me hicieron un cobro que no corresponde, por favor revisen.",reclamo,llm
+"La atención fue muy desorganizada, no me gustó nada.",reclamo,llm
+"No puedo creer que no me respondan, es muy frustrante.",reclamo,llm
+Me cobraron por un servicio que nunca pedí.,reclamo,llm
+"La constancia que me enviaron no es la correcta, ayúdenme.",reclamo,llm
+"Solicito la reconsideración de la sanción impuesta en mi contra, ya que he cumplido con los requisitos establecidos para su levantamiento.",levantamiento_sancion,llm
+Me dirijo a ustedes para solicitar la rehabilitación de mi licencia profesional tras haber cumplido con las condiciones de la sanción impuesta.,levantamiento_sancion,llm
+"Por medio de la presente, solicito la revisión de la suspensión que pesa sobre mi ejercicio profesional, considerando los argumentos que expongo a continuación.",levantamiento_sancion,llm
+"Solicito formalmente el levantamiento de la sanción que afecta mi ejercicio profesional, ya que he tomado las medidas necesarias para corregir mis faltas.",levantamiento_sancion,llm
+"Agradecería se evalúe mi solicitud de rehabilitación, dado que he cumplido con todas las exigencias requeridas por el colegio profesional.",levantamiento_sancion,llm
+"Me permito solicitar la revocación de la suspensión que me fue impuesta, argumentando que he demostrado mi compromiso con la ética profesional.",levantamiento_sancion,llm
+"Por este medio, solicito la rehabilitación de mi licencia profesional, tras haber completado el programa de capacitación requerido.",levantamiento_sancion,llm
+"Solicito la reconsideración de la sanción impuesta, ya que he presentado pruebas que demuestran mi cumplimiento con las normativas del colegio.",levantamiento_sancion,llm
+"Me dirijo a ustedes para solicitar el levantamiento de la suspensión, argumentando que he realizado las acciones correctivas necesarias.",levantamiento_sancion,llm
+"Por la presente, solicito la rehabilitación de mi estatus profesional, tras haber cumplido con las condiciones establecidas en la resolución de sanción.",levantamiento_sancion,llm
+"Solicito la revisión de la sanción que afecta mi ejercicio profesional, considerando mi trayectoria y compromiso con la ética.",levantamiento_sancion,llm
+"Agradezco la atención a mi solicitud de levantamiento de la sanción, ya que he demostrado mi disposición para corregir mis errores.",levantamiento_sancion,llm
+"Por medio de la presente, solicito la rehabilitación de mi licencia, tras haber cumplido con las recomendaciones del comité de ética.",levantamiento_sancion,llm
+"Me permito solicitar la revocación de la suspensión, argumentando que he tomado medidas para asegurar el cumplimiento de las normativas.",levantamiento_sancion,llm
+"Solicito formalmente la revisión de la sanción impuesta, ya que considero que he cumplido con los requisitos necesarios para su levantamiento.",levantamiento_sancion,llm
+"Me dirijo a ustedes para solicitar la rehabilitación de mi licencia profesional, tras haber completado el proceso de formación requerido.",levantamiento_sancion,llm
+"Por este medio, solicito el levantamiento de la sanción que pesa sobre mí, considerando mi compromiso con la mejora continua.",levantamiento_sancion,llm
+"Solicito la reconsideración de la suspensión, ya que he demostrado mi compromiso con la ética y la responsabilidad profesional.",levantamiento_sancion,llm
+"Agradecería se evalúe mi solicitud de rehabilitación, dado que he cumplido con todas las exigencias establecidas por el colegio.",levantamiento_sancion,llm
+"Me permito solicitar la revocación de la sanción, argumentando que he tomado acciones correctivas y he aprendido de mis errores.",levantamiento_sancion,llm
+"Por medio de la presente, solicito la revisión de la suspensión que afecta mi ejercicio profesional, considerando mi trayectoria.",levantamiento_sancion,llm
+"Solicito formalmente el levantamiento de la sanción, ya que he demostrado mi compromiso con la ética profesional y la mejora continua.",levantamiento_sancion,llm
+"Me dirijo a ustedes para solicitar la rehabilitación de mi licencia, tras haber cumplido con las condiciones establecidas en la resolución.",levantamiento_sancion,llm
+"Por este medio, solicito la reconsideración de la sanción impuesta, ya que he presentado pruebas que demuestran mi cumplimiento.",levantamiento_sancion,llm
+"Solicito la revisión de la suspensión que pesa sobre mí, argumentando que he tomado medidas para asegurar el cumplimiento de las normativas.",levantamiento_sancion,llm
+"Agradezco la atención a mi solicitud de rehabilitación, dado que he demostrado mi disposición para corregir mis errores.",levantamiento_sancion,llm
+"Por medio de la presente, solicito el levantamiento de la sanción, tras haber completado el programa de capacitación requerido.",levantamiento_sancion,llm
+"Me permito solicitar la revocación de la suspensión, considerando mi compromiso con la ética y la responsabilidad profesional.",levantamiento_sancion,llm
+"Me dirijo a ustedes para solicitar la rehabilitación de mi licencia profesional, tras haber cumplido con las recomendaciones del comité de ética.",levantamiento_sancion,llm
+"Hola, necesito que me ayuden a levantar mi sanción, porfa.",levantamiento_sancion,llm
+Quiero saber como puedo rehabilitarme después de la suspensión.,levantamiento_sancion,llm
+"Ayuda, tengo una sanción y quiero que me la quiten ya.",levantamiento_sancion,llm
+"Hola, me gustaría que revisen mi caso de suspensión.",levantamiento_sancion,llm
+"Por favor, necesito que me ayuden a levantar mi sanción.",levantamiento_sancion,llm
+Quiero saber si puedo recuperar mi licencia ya.,levantamiento_sancion,llm
+"Hola, tengo una sanción y quiero que me ayuden a solucionarlo.",levantamiento_sancion,llm
+"Porfa, necesito que me digan como puedo rehabilitarme.",levantamiento_sancion,llm
+"Hola, estoy en problemas con una sanción, ayúdenme.",levantamiento_sancion,llm
+"Quiero que me levanten la suspensión, por favor.",levantamiento_sancion,llm
+"Hola, necesito que me ayuden a quitar mi sanción.",levantamiento_sancion,llm
+"Por favor, necesito info sobre como rehabilitarme.",levantamiento_sancion,llm
+"Hola, tengo una suspensión y quiero que me ayuden.",levantamiento_sancion,llm
+"Ayuda, quiero que me levanten la sanción ya.",levantamiento_sancion,llm
+"Hola, necesito que revisen mi caso de suspensión.",levantamiento_sancion,llm
+Quiero saber si puedo recuperar mi licencia pronto.,levantamiento_sancion,llm
+"Hola, tengo una sanción y necesito ayuda urgente.",levantamiento_sancion,llm
+"Porfa, necesito que me digan como rehabilitarme.",levantamiento_sancion,llm
+"Hola, estoy con una sanción y quiero que me ayuden.",levantamiento_sancion,llm
+"Quiero que me levanten la suspensión, porfa.",levantamiento_sancion,llm

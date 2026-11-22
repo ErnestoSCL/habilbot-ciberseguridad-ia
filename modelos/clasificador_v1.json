@@ -1,0 +1,162 @@
+{
+  "modelo": "clasificador_v1.joblib",
+  "sha256": "d521265b8dba7d7afda028895b0625c17e494026428893ce11d9d8f9abc63882",
+  "semilla": 42,
+  "entrenado": "2026-11-19T14:55:41+00:00",
+  "algoritmo": "TF-IDF (palabras 1-2 + letras 3-5) + regresión logística balanceada",
+  "clases": [
+    "consulta_general",
+    "constancia_habilitacion",
+    "pago_cuotas",
+    "actualizacion_datos",
+    "reclamo",
+    "levantamiento_sancion"
+  ],
+  "n_entrenamiento": 644,
+  "prueba_interna": {
+    "n": 161,
+    "exactitud": 0.9938,
+    "f1_macro": 0.9941,
+    "f1_por_clase": {
+      "consulta_general": 0.9818,
+      "constancia_habilitacion": 1.0,
+      "pago_cuotas": 0.9831,
+      "actualizacion_datos": 1.0,
+      "reclamo": 1.0,
+      "levantamiento_sancion": 1.0
+    },
+    "matriz_confusion": {
+      "orden": [
+        "consulta_general",
+        "constancia_habilitacion",
+        "pago_cuotas",
+        "actualizacion_datos",
+        "reclamo",
+        "levantamiento_sancion"
+      ],
+      "filas_real_columnas_predicho": [
+        [
+          27,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          30,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          29,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          23,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          26,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          25
+        ]
+      ]
+    }
+  },
+  "prueba_externa": {
+    "n": 60,
+    "exactitud": 0.8167,
+    "f1_macro": 0.8192,
+    "f1_por_clase": {
+      "consulta_general": 0.6667,
+      "constancia_habilitacion": 0.8235,
+      "pago_cuotas": 0.7778,
+      "actualizacion_datos": 0.9474,
+      "reclamo": 0.8,
+      "levantamiento_sancion": 0.9
+    },
+    "matriz_confusion": {
+      "orden": [
+        "consulta_general",
+        "constancia_habilitacion",
+        "pago_cuotas",
+        "actualizacion_datos",
+        "reclamo",
+        "levantamiento_sancion"
+      ],
+      "filas_real_columnas_predicho": [
+        [
+          7,
+          0,
+          1,
+          0,
+          2,
+          0
+        ],
+        [
+          2,
+          7,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          1,
+          0,
+          7,
+          0,
+          1,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          9,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          10,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          9
+        ]
+      ]
+    }
+  }
+}

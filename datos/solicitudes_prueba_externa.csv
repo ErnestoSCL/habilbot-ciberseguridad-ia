@@ -1,0 +1,61 @@
+texto,clase
+oe a q hora cierran hoy,consulta_general
+el colegio tiene biblioteca o algo así para consultar normas?,consulta_general
+cada cuánto son las elecciones del consejo directivo,consulta_general
+"si alguien comete una falta, quién lo juzga?",consulta_general
+hay algún curso de actualización este mes?,consulta_general
+me pueden decir qué es el código de ética en resumen,consulta_general
+cuánto tiempo dura vigente la constancia una vez emitida,consulta_general
+"para colegiarme, qué papeles llevo?",consulta_general
+"dónde están ubicados, soy nuevo",consulta_general
+¿El asistente atiende fines de semana?,consulta_general
+ocupo el papelito que dice q estoy habil para la obra del lunes,constancia_habilitacion
+me lo piden en la municipalidad: documento que acredite que puedo ejercer,constancia_habilitacion
+sáquenme la constancia nomás porfa,constancia_habilitacion
+la entidad pide constancia de habilidad profesional actualizada,constancia_habilitacion
+"para el expediente técnico necesito acreditar mi habilitación, cómo hago",constancia_habilitacion
+pueden generarme el certificado? postulo a una convocatoria CAS,constancia_habilitacion
+constancia habilitacion urgente,constancia_habilitacion
+mi jefe me pide que demuestre que estoy al día con el colegio para firmar,constancia_habilitacion
+"necesito la constancia en pdf, la mía ya venció",constancia_habilitacion
+quisiera tramitar mi constancia de hábil para un proceso de selección,constancia_habilitacion
+cuanto me falta pagar,pago_cuotas
+estoy al día o debo algo?,pago_cuotas
+puedo yapear la cuota?,pago_cuotas
+si pago todo el año de golpe cuánto sale,pago_cuotas
+me olvidé de pagar tres meses cuánto es en total,pago_cuotas
+número de cuenta para depositar la mensualidad,pago_cuotas
+aceptan tarjeta en caja?,pago_cuotas
+la cuota subió este año?,pago_cuotas
+quiero ponerme al día con lo que debo,pago_cuotas
+"fraccionan la deuda o tengo que pagar todo junto?",pago_cuotas
+me casé y ahora uso otro apellido,actualizacion_datos
+ya no trabajo en la constructora: hay que cambiar mi centro laboral,actualizacion_datos
+el correo que tienen ya no lo uso,actualizacion_datos
+"vivo en otro distrito ahora, registren eso",actualizacion_datos
+mi celular cambió anoten el nuevo porfa,actualizacion_datos
+en el padrón figura mal mi número de documento,actualizacion_datos
+quiero que mi dirección de notificaciones sea otra,actualizacion_datos
+corrijan mi especialidad registrada por favor,actualizacion_datos
+actualicen mis datos de contacto,actualizacion_datos
+me escribieron mal el nombre en el registro,actualizacion_datos
+"pagué y en el sistema sigo apareciendo como deudor, qué pasa",reclamo
+la constancia salió con otra fecha de vigencia y no me sirve,reclamo
+"llevo un mes esperando respuesta, pésimo servicio",reclamo
+me descontaron dos veces de la cuenta,reclamo
+el cajero no me quiso dar comprobante,reclamo
+"pedí la constancia, pagué y nunca llegó al correo",reclamo
+no es justo que me cobren mora si pagué a tiempo,reclamo
+quiero dejar constancia de mi molestia por la atención en ventanilla,reclamo
+"me cobraron la cuota de un mes que estuve exonerado",reclamo
+el sistema me bota cada vez que intento pagar y encima me cobró,reclamo
+"me suspendieron hace meses, cómo hago para que me la quiten",levantamiento_sancion
+"ya pagué la reparación al cliente, quiero mi rehabilitación",levantamiento_sancion
+el tribunal me castigó 6 meses y ya van 4 puedo pedir que lo acorten?,levantamiento_sancion
+quiero apelar lo que resolvió el tribunal de ética,levantamiento_sancion
+estoy inhabilitado y necesito volver a ejercer pronto,levantamiento_sancion
+qué trámite hago para que me levanten la suspensión,levantamiento_sancion
+cumplí la sanción completa ya me pueden habilitar?,levantamiento_sancion
+solicito dejar sin efecto la medida disciplinaria impuesta,levantamiento_sancion
+"me pusieron una amonestación injusta, quiero que la anulen",levantamiento_sancion
+cómo pido revisión anticipada de mi suspensión,levantamiento_sancion

@@ -10,7 +10,18 @@ load_dotenv(RAIZ / ".env")
 CORPUS = RAIZ / "datos" / "corpus"
 PADRON = RAIZ / "datos" / "padron_sintetico.csv"
 USUARIOS = RAIZ / "datos" / "usuarios_sinteticos.csv"
-REGISTRO = RAIZ / "registros" / "vivo" / "eventos.jsonl"
+REGISTRO = Path(os.getenv("HABILBOT_REGISTRO", RAIZ / "registros" / "vivo" / "eventos.jsonl"))
+
+SOLICITUDES = RAIZ / "datos" / "solicitudes_sinteticas.csv"
+SOLICITUDES_EXTERNA = RAIZ / "datos" / "solicitudes_prueba_externa.csv"
+MODELO_CLASIFICADOR = RAIZ / "modelos" / "clasificador_v1.joblib"
+FICHA_CLASIFICADOR = RAIZ / "modelos" / "clasificador_v1.json"
+# Por debajo de esta confianza, la solicitud va a revisión humana aunque su clase sea automática
+UMBRAL_CONFIANZA = 0.6
+
+# Estado que escriben las herramientas del agente (excluido de git; se reinicia en cada evaluación)
+ESTADO = RAIZ / "estado"
+MAX_PASOS_AGENTE = 5
 
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "")
 OPENAI_MODELO = os.getenv("OPENAI_MODELO", "gpt-4o-mini")
