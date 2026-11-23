@@ -23,11 +23,11 @@ def _cliente_openai():
 
 
 def _gemini(sistema: str, usuario: str) -> str:
-    if not config.GEMINI_API_KEY:
-        raise RuntimeError("Falta GEMINI_API_KEY en .env (o use LLM_PROVEEDOR=simulado)")
     from google import genai
     from google.genai import types
     if "gemini" not in _clientes:
+        if not config.GEMINI_API_KEY:
+            raise RuntimeError("Falta GEMINI_API_KEY en .env (o use LLM_PROVEEDOR=simulado)")
         _clientes["gemini"] = genai.Client(api_key=config.GEMINI_API_KEY)
     respuesta = _clientes["gemini"].models.generate_content(
         model=config.GEMINI_MODELO,
