@@ -13,6 +13,7 @@ theme:
 
 nav:
   - Inicio: index.md
+  - Cómo se usa: uso.md
   - Ficha del sistema: ficha.md
   - Arquitectura: arquitectura.md
   - Modelo de amenazas: modelo-de-amenazas.md

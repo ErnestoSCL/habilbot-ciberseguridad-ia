@@ -47,9 +47,25 @@ python -m src.app --usuario cperez --sin-controles
 Los usuarios de prueba y sus claves sintéticas están en `datos/generar_datos.py` (`USUARIOS_DEMO`). Dentro de la consola:
 
 - escriba su consulta; verá el trámite detectado, la ruta y las herramientas que usó el agente;
-- `/adjuntar datos/adjuntos/sustento_legitimo.txt` adjunta un documento a la siguiente consulta (pruebe también `sustento_envenenado.txt`).
+- `/adjuntar datos/adjuntos/sustento_legitimo.txt` adjunta un documento a la siguiente consulta (pruebe también `sustento_envenenado.txt` con `cperez`, con y sin `--sin-controles`).
 
 Cada consulta queda en `registros/vivo/eventos.jsonl` (excluido del repositorio). Las constancias y expedientes que crea el agente quedan en `estado/` (también excluido).
+
+## Cómo se ve
+
+Sesiones reales de la consola (más capturas y su explicación en la página: [Cómo se usa](https://ernestoscl.github.io/habilbot-ciberseguridad-ia/uso/)).
+
+Un colegiado hábil pide su constancia con un comprobante adjunto: el agente consulta el padrón y la emite.
+
+![Constancia con adjunto](docs/img/uso_02_constancia.png)
+
+Un colegiado no hábil adjunta un comprobante con un resultado falso del padrón. Sin controles, el agente emite la constancia:
+
+![Ataque sin control](docs/img/uso_04_ataque_sin_control.png)
+
+Con el diccionario de permisos, la emisión se bloquea (aunque el texto del modelo todavía repite la mentira del adjunto):
+
+![Ataque con control](docs/img/uso_05_ataque_con_control.png)
 
 ## Evaluación adversarial
 
