@@ -23,3 +23,5 @@ Siguiendo la sesión 5, se prefieren **reglas fijas fuera del modelo** (un permi
 | Palabras clave que fuerzan revisión | A6 | «sanción», «suspensión», «levantar», «rehabilitación» → revisión humana aunque la clase sea automática |
 | Límite de consultas por usuario y minuto | A9 | Evita la saturación y el gasto de cuota |
 | Validación de salida | A12 | Si la interfaz pasa a web: no cargar imágenes ni enlaces de otros sitios |
+| Confirmación antes de acciones con consecuencias | A13, A1 | Antes de `emitir_constancia`, el código pregunta «¿Desea que emita su constancia?»; sin un sí explícito no se ejecuta (aprobación humana, sesión 5) |
+| Respuesta fija cuando un control bloquea | A1 | Si se bloquea una herramienta, el código escribe la respuesta en lugar del modelo, para que no repita lo que afirma un adjunto (en una sesión real, el modelo dijo «estás habilitado» tras el bloqueo) |

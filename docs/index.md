@@ -25,7 +25,7 @@ Detalle en [Evaluación adversarial](evaluacion.md).
 |---|---|
 | [Ficha del sistema](ficha.md) | Hito 2 |
 | [Arquitectura](arquitectura.md) | Hito 2 |
-| [Modelo de amenazas](modelo-de-amenazas.md) | 12 amenazas, con capa MAESTRO |
+| [Modelo de amenazas](modelo-de-amenazas.md) | 13 amenazas, con capa MAESTRO |
 | [Priorización](priorizacion.md) | Pendiente (sesión 7) |
 | [Controles y riesgo residual](controles.md) | Controles implementados descritos |
 | [Evaluación adversarial](evaluacion.md) | Primera medición sin control y tres trazas |
